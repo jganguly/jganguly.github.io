@@ -1,1 +1,0 @@
-# jganguly.github.io
