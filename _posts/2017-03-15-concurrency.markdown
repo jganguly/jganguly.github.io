@@ -1,5 +1,8 @@
-The Perils of Concurrency
 ---
+title: The Perils of Concurrency
+author: jg
+---
+
 
 **Concurrency**Managing concurrency is wickedly tricky for large programs. At each program point, you must reason about which locks are currently held. At each method call, you must reason about which locks it will try to hold, and convince yourself that it does not overlap the set of locks already held.
 **A Diverging Problem**This problem is magnified because the locks you reason about are not simply a finite list in the program since the program is free to create new locks at run time as it executes. This gets worse because testing is not reliable with locks. Threads are non‐ deterministic, you can very well successfully test a program a thousand times and yet the program could go wrong the first time it runs on deployment! With locks, you must get the program correct through logic alone and that is very hard and time consuming to do so.
