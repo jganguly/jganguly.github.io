@@ -1,6 +1,6 @@
 ---
 title: The Perils of Concurrency
-author: jg
+author: Jaideep Ganguly
 ---
 
 
