@@ -24,23 +24,16 @@ object Ex_Actor {
     case class Number(n: Int)
 
     /* Simple Actor receiving messages as case classes */
-    
     class SimpleActor extends Actor {
-        
+
         def act(): Unit = {
-            
             var flag = true
-            
             while (flag) {
-
                 receive {
-
                     case Quit =>
                         flag = false
-
                     case Message(s) =>
                         println("Got a string: " + s)
-
                     case Number(i) =>
                         println("Got a number: " + i)
                     }
@@ -54,22 +47,19 @@ object Ex_Actor {
             
             def act(): Unit = {
                 var flag = true
-
                 while (flag) {
-                    
                     receive {
                         case    StartCount(n, ca) =>
                                 println(name + " : " + n)
                                 ca ! CountDown(n - 1)
-                        
+                                
                         case    CountDown(n) =>
                                 println(n)
-                                
                                 if (n > 0) {
                                     sender ! CountDown(n - 1)
                                     println(name)
                                 }
-                      
+                                
                         case  Quit => flag = false
 
                     }
