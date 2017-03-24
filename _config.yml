@@ -16,7 +16,7 @@
 title: My Research Trails
 email: jganguly@alum.MIT.edu
 description: > # this means to ignore newlines until "baseurl:"
-   Just some thoughts worth thinking about.
+   Some thoughts that may be worth thinking about ...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jganguly

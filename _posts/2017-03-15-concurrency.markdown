@@ -1,4 +1,4 @@
-The Perils of Concurrency !!!
+The Perils of Concurrency
 ---
 
 **Concurrency**Managing concurrency is wickedly tricky for large programs. At each program point, you must reason about which locks are currently held. At each method call, you must reason about which locks it will try to hold, and convince yourself that it does not overlap the set of locks already held.
