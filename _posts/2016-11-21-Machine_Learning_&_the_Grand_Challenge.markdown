@@ -11,7 +11,7 @@ In the previous article, we talked about the effectiveness of a particular deep 
 
 <div style="text-align:center" markdown="1">
 
-![my photo]({{ http://jganguly.github.io }}/assets/gc_01.png){:width="600px"}
+![my photo]({{ site.url }}/assets/images/gc_01.png){:width="600px"}
 
 </div>
 
@@ -23,7 +23,7 @@ Proteins do just about anything that you can think of in our body. Proteins are 
 
 <div style="text-align:center" markdown="1">
 
-![my photo]({{ http://jganguly.github.io }}/assets/gc_02.png){:width="300px"}
+![my photo]({{ site.url }}/assets/images/gc_02.png){:width="300px"}
 
 </div>
 
@@ -42,7 +42,7 @@ Proteins are a class of nitrogenous organic compounds that consist of large mole
 
 <div style="text-align:center" markdown="1">
 
-![my photo]({{ http://jganguly.github.io }}/assets/gc_03.png){:width="600px"}
+![my photo]({{ site.url }}/assets/images/gc_03.png){:width="600px"}
 
 </div>
 
@@ -51,7 +51,7 @@ The Eukaryotic cell, i.e, a cell with a nucleus, is a treasure trove of genetic 
 
 <div style="text-align:center" markdown="1">
 
-![my photo]({{ http://jganguly.github.io }}/assets/gc_04.png){:width="600px"}
+![my photo]({{ site.url }}/assets/images/gc_04.png){:width="600px"}
 
 </div>
 
@@ -63,7 +63,7 @@ The nucleus of the cell packs the double helix structured DNA, i.e., the Deoxyri
 
 <div style="text-align:center" markdown="1">
 
-![my photo]({{ http://jganguly.github.io }}/assets/gc_05.png){:width="600px"}
+![my photo]({{ site.url }}/assets/images/gc_05.png){:width="600px"}
 
 </div>
 
@@ -71,7 +71,7 @@ Transcription is the first step in decoding a cell's genetic information. During
 
 <div style="text-align:center" markdown="1">
 
-![my photo]({{ http://jganguly.github.io }}/assets/gc_06.png){:width="600px"}
+![my photo]({{ site.url }}/assets/images/gc_06.png){:width="600px"}
 
 </div>
 
@@ -81,7 +81,7 @@ RNA or Ribonucleic acid, is a nucleic acid that is present in all living cells. 
 
 <div style="text-align:center" markdown="1">
 
-![my photo]({{ http://jganguly.github.io }}/assets/gc_07.png){:width="600px"}
+![my photo]({{ site.url }}/assets/images/gc_07.png){:width="600px"}
 
 </div>
 
@@ -91,7 +91,7 @@ There are three general classes of RNA molecules involved in expressing the gene
 
 <div style="text-align:center" markdown="1">
 
-![my photo]({{ http://jganguly.github.io }}/assets/gc_08.png){:width="600px"}
+![my photo]({{ site.url }}/assets/images/gc_08.png){:width="600px"}
 
 </div>
 
@@ -101,7 +101,7 @@ Translation
 
 <div style="text-align:center" markdown="1">
 
-![my photo]({{ http://jganguly.github.io }}/assets/gc_09.png){:width="600px"}
+![my photo]({{ site.url }}/assets/images/gc_09.png){:width="600px"}
 
 </div>
 
@@ -113,7 +113,7 @@ In all amino acids, we have a an alpha carbon in the middle, in the left there i
 
 <div style="text-align:center" markdown="1">
 
-![my photo]({{ http://jganguly.github.io }}/assets/gc_10.png){:width="600px"}
+![my photo]({{ site.url }}/assets/images/gc_10.png){:width="600px"}
 
 </div>
 
@@ -121,7 +121,7 @@ A protein starts off in the cell as a long chain of, on average, 300 building bl
 
 <div style="text-align:center" markdown="1">
 
-![my photo]({{ http://jganguly.github.io }}/assets/gc_11.png){:width="600px"}
+![my photo]({{ site.url }}/assets/images/gc_11.png){:width="600px"}
 
 </div>
 
