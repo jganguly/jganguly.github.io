@@ -1,9 +1,12 @@
 ---
-title: Building Great Teams; extracts from "Organizing Genious" by Warren Benis
+title: Building Great Teams
 author: Jaideep Ganguly
 ---
 
 {% include header.html %}
+
+Extracts from "Organizing Genious" by Warren Benis.
+
 1.	**Members of a Great Team need a worthy challenge, a hard task that allows them to explore the whole gamut of their intellect and talent. They need colleagues who stimulate and challenge them and whom they can admire.** People in a Great Team fall in love with the project. They are so taken with the beauty and difficulty of the job that they don’t want to talk about anything else, be anywhere else, or do anything else. Problem solving douses the human brain with Dopamine and Seratonin  that make us feel good, and people ache to do good work. Great Teams reflect the leader’s profound, not necessarily conscious, understanding of what brilliant people want. 
 
 2.	Members of a Great Team say they would have done the work for nothing. The reward is the creative process itself. A Great Team believes that they are doing something vital, even holy. **They are filled with believers, not doubters.** They know that they will be expected to make sacrifices, but they also know that they are doing something monumental, something worthy of themselves. The clear collective purpose makes everything they do seem meaningful and valuable. Given a task they believe in and a chance to do it well, they will work tirelessly for no more reward than the one they give themselves. 
