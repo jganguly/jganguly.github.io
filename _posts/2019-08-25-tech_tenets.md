@@ -13,7 +13,7 @@ author: Jaideep Ganguly
 
 4. **Apply machine learning** to generate actionable business insights. **Adopt visualization techniques over verbose reports.**
 
-5. **Anything that we build should be simple and intuitive.**
+5. **Anything that we build should be simple and intuitive with frictionless UX**.
 
    
 
