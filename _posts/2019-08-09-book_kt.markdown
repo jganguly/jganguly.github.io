@@ -1,5 +1,5 @@
 ---
-title: My books on Kotlin and Machine Learning
+title: Kotlin Cookbook by Jaideep Ganguly
 author: Jaideep Ganguly
 ---
 
@@ -9,5 +9,4 @@ author: Jaideep Ganguly
 
 [Algorithms in Kotlin](/assets/kotlin_algo.pdf)
 
-[Functional Composition & the Monad](/assets/kotlin_monad.pdf)
 

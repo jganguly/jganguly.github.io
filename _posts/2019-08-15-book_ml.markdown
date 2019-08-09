@@ -1,5 +1,5 @@
 ---
-title: Foundations of Machine Learning - a book by Jaideep Ganguly
+title: Foundations of Machine Learning by Jaideep Ganguly
 author: Jaideep Ganguly
 ---
 
