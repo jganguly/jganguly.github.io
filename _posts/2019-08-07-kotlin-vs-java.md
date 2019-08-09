@@ -1,6 +1,7 @@
-title: Kotlin Versus Java
+---
+title: Kotlin versus Java
 author: Jaideep Ganguly
-
+---
 
 {% include header.html %}
 
@@ -9,13 +10,12 @@ author: Jaideep Ganguly
 ```kotlin
 data class VideoGame(val name: String, val publisher: String, var reviewScore: Int)
 val game: VideoGame = VideoGame("Gears of War", "Epic Games", 8)
-print(game.name) 		// "Gears of War"
-print(game.publisher) 	// "Epic Games"
-print(game.reviewScore) // 8
+print(game.name) 				
+print(game.publisher) 	
+print(game.reviewScore) 
 game.reviewScore = 7
 print(game.toString())
-// prints 
-// "Game(name=Gears Of War, publisher=Epic Games, reviewScore=7)"
+
 ```
 
 **Java**
