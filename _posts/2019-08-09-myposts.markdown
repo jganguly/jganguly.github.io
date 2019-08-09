@@ -1,0 +1,12 @@
+---
+title: My posts
+author: Jaideep Ganguly
+---
+
+{% include header.html %}
+
+[Functional Programming - Design through Functional Composition & Monads](https://www.linkedin.com/feed/update/urn:li:activity:6522136329810210816/)
+
+
+
+
