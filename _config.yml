@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: My Research Trails
+title: Jaideep Ganguly
 email: jganguly@alum.MIT.edu
 
 # description: > # this means to ignore newlines until "baseurl:"
