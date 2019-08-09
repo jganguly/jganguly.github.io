@@ -1,5 +1,5 @@
 ---
-title: Machine Learning & the Grand Challenge
+title: Machine Learning and the Grand Challenge
 author: Jaideep Ganguly
 ---
 
