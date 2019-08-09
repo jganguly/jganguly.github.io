@@ -1,5 +1,5 @@
 ---
-title: My posts
+title: Tech Tenets
 author: Jaideep Ganguly
 ---
 
