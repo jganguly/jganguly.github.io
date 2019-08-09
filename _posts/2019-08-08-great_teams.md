@@ -1,5 +1,5 @@
 ---
-title: Great Teams
+title: Great Teams, extracts from"Organizing Genious by Warren Benis"
 author: Jaideep Ganguly
 ---
 
