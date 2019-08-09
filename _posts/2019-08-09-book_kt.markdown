@@ -7,8 +7,6 @@ author: Jaideep Ganguly
 
 [Kotlin Cookbook](/assets/kotlin_cookbook.pdf)
 
-[Understanding Machine Learning - DRAFT](/assets/ml.pdf)
-
 [Algorithms in Kotlin](/assets/kotlin_algo.pdf)
 
 [Functional Composition & the Monad](/assets/kotlin_monad.pdf)
