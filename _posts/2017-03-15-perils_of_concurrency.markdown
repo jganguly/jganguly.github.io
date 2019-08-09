@@ -1,4 +1,4 @@
-title: Building Great Teams; extracts from "Organizing Genious" by Warren Benis
+title: Perils of Concurrency
 author: Jaideep Ganguly
 
 {% include header.html %}
