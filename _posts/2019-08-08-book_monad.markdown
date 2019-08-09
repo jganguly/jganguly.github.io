@@ -1,5 +1,5 @@
 ---
-title: Functional Composition by Jaideep Ganguly
+title: Functional Composition and the Monad by Jaideep Ganguly
 author: Jaideep Ganguly
 ---
 
