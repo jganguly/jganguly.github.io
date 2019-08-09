@@ -1,5 +1,5 @@
 ---
-title: My posts
+title: My LinkedIn posts
 author: Jaideep Ganguly
 ---
 
