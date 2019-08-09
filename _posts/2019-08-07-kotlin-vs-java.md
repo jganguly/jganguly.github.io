@@ -15,7 +15,6 @@ print(game.publisher)
 print(game.reviewScore) 
 game.reviewScore = 7
 print(game.toString())
-
 ```
 
 **Java**
