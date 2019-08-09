@@ -1,5 +1,5 @@
 ---
-title: Kotlin Cookbook by Jaideep Ganguly
+title: Kotlin books by Jaideep Ganguly
 author: Jaideep Ganguly
 ---
 
