@@ -83,4 +83,5 @@ At `line-(a)` we pass `Object[]`. But why `Object[]`? Because in scala, Nothing 
 
 Note this issue is only with arrays as they are reified. Works alright with List as it is type-erased.
 
-**Bottom-Line: ** **It is futile to attempt calling scala from java. Scala has a rich type system which cannot be directly expressed from Java. Solution: Hava a java wrapper for your scala code.**
+**Bottom-Line: It is futile to attempt calling scala from java. Scala has a rich type system which cannot be directly expressed from Java. Solution: Hava a java wrapper for your scala code.**
+
