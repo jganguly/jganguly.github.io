@@ -23,7 +23,7 @@ github_username:  jganguly
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-leap-day
 gems:
   - jekyll-feed
 exclude:
