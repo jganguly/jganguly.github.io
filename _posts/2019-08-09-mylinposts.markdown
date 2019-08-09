@@ -1,5 +1,5 @@
 ---
-title: My LinkedIn posts
+title: My LinkedIn posts on Machine Learning & Functional Programming
 author: Jaideep Ganguly
 ---
 
