@@ -1,6 +1,7 @@
 ---
 title: Calling Java from Scala
 author: Jaideep Ganguly
+layout: default
 ---
 
 {% include header.html %}
