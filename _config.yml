@@ -23,7 +23,7 @@ github_username: jganguly
 
 # Build settings
 markdown: kramdown
-theme: slate
+theme: jekyll-theme-slate
 gems:
   - jekyll-feed
   - jekyll-theme-slate
