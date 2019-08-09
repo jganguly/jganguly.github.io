@@ -19,10 +19,10 @@ email: jganguly@alum.MIT.edu
 #   Some thoughts that may be worth thinking about ...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  jganguly
+github_username: jganguly
 
 # Build settings
-markdown:kramdown
+markdown: kramdown
 theme:jekyll-theme-slate
 gems:
   - jekyll-feed
