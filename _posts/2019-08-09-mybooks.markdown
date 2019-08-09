@@ -1,9 +1,9 @@
 ---
-title: Calling Java from Scala
+title: My books
 author: Jaideep Ganguly
 ---
 
 {% include header.html %}
 
-[Kotlin Cookbook](/kotlin_cookbook.pdf)
+[Kotlin Cookbook](/assets/kotlin_cookbook.pdf)
 
