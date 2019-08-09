@@ -1,5 +1,5 @@
 ---
-title: The Perils of Concurren
+title: The Perils of Concurrency
 author: Jaideep Ganguly
 
 ---
