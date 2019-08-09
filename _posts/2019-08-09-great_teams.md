@@ -1,5 +1,5 @@
 ---
-title: My posts
+title: Great Teams
 author: Jaideep Ganguly
 ---
 
