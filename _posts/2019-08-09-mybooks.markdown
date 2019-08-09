@@ -7,3 +7,7 @@ author: Jaideep Ganguly
 
 [Kotlin Cookbook](/assets/kotlin_cookbook.pdf)
 
+[Understanding Machine Learning](/assets/ml.pdf)
+
+
+
