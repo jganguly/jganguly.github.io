@@ -1,7 +1,12 @@
-title: Perils of Concurrency
+---
+title: The Perils of Concurren
 author: Jaideep Ganguly
 
+---
+
 {% include header.html %}
+
+
 
 
 **Concurrency**
