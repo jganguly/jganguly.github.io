@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My Research Trails
+#title: My Research Trails
 email: jganguly@alum.MIT.edu
-description: > # this means to ignore newlines until "baseurl:"
+#description: > # this means to ignore newlines until "baseurl:"
    Some thoughts that may be worth thinking about ...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -23,7 +23,7 @@ github_username:  jganguly
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
 gems:
   - jekyll-feed
 exclude:
