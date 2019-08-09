@@ -22,8 +22,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jganguly
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-slate
+markdown:kramdown
+theme:jekyll-theme-slate
 gems:
   - jekyll-feed
 exclude:
