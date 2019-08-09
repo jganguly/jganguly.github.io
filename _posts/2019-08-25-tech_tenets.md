@@ -13,7 +13,7 @@ author: Jaideep Ganguly
 
 4. **Apply machine learning** to generate actionable business insights. **Adopt visualization techniques over verbose reports.**
 
-5. **Anything that we build should be simple and intuitive. UX shall be silky smooth.** Wherever feasible, the usability experience should encompass voice and touch and span multiple devices. 
+5. **Anything that we build should be simple and intuitive.**
 
    
 
