@@ -1,9 +1,9 @@
 ---
-title: Functional Composition and the Monad by Jaideep Ganguly
+title: Functional Composition with Monad by Jaideep Ganguly
 author: Jaideep Ganguly
 ---
 
 {% include header.html %}
 
-[Functional Composition & the Monad](/assets/kotlin_monad.pdf)
+[Functional Composition with Monad](/assets/kotlin_monad.pdf)
 
