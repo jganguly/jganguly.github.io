@@ -23,9 +23,10 @@ github_username: jganguly
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
 gems:
   - jekyll-feed
+  - jekyll-theme-slate
 exclude:
   - Gemfile
   - Gemfile.lock
