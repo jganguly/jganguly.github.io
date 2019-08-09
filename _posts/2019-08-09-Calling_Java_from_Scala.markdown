@@ -1,15 +1,9 @@
 ---
-title: The Perils of Concurrency
+title: Calling Java from Scala
 author: Jaideep Ganguly
 ---
 
 {% include header.html %}
-
-
-
-# Calling Java from Scala
-
-#### Jaideep Ganguly
 
 I think attempting Scala from java is slightly skewed philosophically. Because both of them differ on paradigms. On top of my head, here are a few differences:
 
