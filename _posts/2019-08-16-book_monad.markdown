@@ -5,5 +5,5 @@ author: Jaideep Ganguly
 
 {% include header.html %}
 
-[Functional Composition with Monad](/assets/kotlin_monad.pdf)
+[Functional Composition with Monad - DRAFT](/assets/kotlin_monad.pdf)
 
