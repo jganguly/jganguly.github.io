@@ -1,9 +1,9 @@
 ---
-title: Functional Composition with Monad [DRAFT] by Jaideep Ganguly
+title: Developer Productivity, Functional Composition & the Monad [DRAFT] by Jaideep Ganguly
 author: Jaideep Ganguly
 ---
 
 {% include header.html %}
 
-[Functional Composition with Monad - DRAFT](/assets/kotlin_monad.pdf)
+[Developer Productivity, Functional Composition & the Monad - DRAFT](/assets/kotlin_monad.pdf)
 
