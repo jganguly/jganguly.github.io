@@ -1,9 +1,9 @@
 ---
-title: API design through Function Compositions and  Type Classes
+title: API design through Function Compositions and  Type Classes by Jaideep Ganguly
 author: Jaideep Ganguly
 ---
 
 {% include header.html %}
 
-[Functional Composition & the Monad](/assets/kotlin_monad.pdf)
+[API design through Function Compositions and  Type Classes by Jaideep Ganguly](/assets/kotlin_monad.pdf)
 
