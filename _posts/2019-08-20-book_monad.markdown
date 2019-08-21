@@ -1,5 +1,5 @@
 ---
-title: Functional Composition & the Monad by Jaideep Ganguly
+title: API design through Function Compositions and  Type Classes
 author: Jaideep Ganguly
 ---
 
