@@ -1,5 +1,5 @@
 ---
-title: Links to LinkedIn posts
+title: Links to my LinkedIn posts
 author: Jaideep Ganguly
 ---
 
