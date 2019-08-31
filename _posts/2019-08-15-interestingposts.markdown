@@ -1,5 +1,5 @@
 ---
-title: Links to interesting posts
+title: Links to some interesting posts
 author: 
 ---
 
