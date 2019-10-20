@@ -6,10 +6,11 @@ layout: default_home
 
   {{ content }}
 
+
+  <h2 class="post-list-heading">{{ page.list_title | default: "My Reflections" }}</h2>
+  <ul class="post-list">
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "My Reflections" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
+    {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <!-- <span class="post-meta">{{ post.date | date: date_format }}</span> -->
@@ -18,7 +19,7 @@ layout: default_home
         </a>
       </li>
       {%- endfor -%}
-    </ul>
-  {%- endif -%}
-<a href="jganguly.github.io/assets/Jaideep_Ganguly.pdf" target="_blank">Test</a>
+    {%- endif -%}
+  <li><a href="jganguly.github.io/assets/Jaideep_Ganguly.pdf" target="_blank">Test</a></li>
+</ul>
 </div>
