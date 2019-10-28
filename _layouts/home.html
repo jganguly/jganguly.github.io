@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<meta charset="UTF-8" content="width=device-width, initial-scale=1.0">
 	<title>Jaideep Ganguly</title>
@@ -7,80 +8,556 @@
 	<link rel="stylesheet" type="text/css" href="assets/content/main.css">
 	<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap" rel="stylesheet">
 
-	<script type="text/javascript"  src ="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">          </script>
-	
+	<script type="text/javascript"
+		src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">          </script>
+
 	<style>
 		body {
-			font-family: 'Nanum Gothic';
-		}	
+			font-family: "Nanum Gothic";
+			/*font-family: "Source Sans Pro", SSPro , Helvetica, arial, sans-serif;*/
+			font-size: 0.75em;
+			line-height: 1.3;
+			padding-top: 10px;
+			padding-bottom: 10px;
+			background-color: white;
+			padding: 30px;
+		}
+
+		body>*:first-child {
+			margin-top: 0 !important;
+		}
+
+		body>*:last-child {
+			margin-bottom: 0 !important;
+		}
 
 		a {
 			text-decoration: none;
+			color: #4183C4;
 		}
 
-		a:hover {
-			text-decoration: underline;
+		a:link {
+			text-decoration: none;
 		}
 
-		div  {
-			font-family: 'Nanum Gothic', sans-serif;
-			font-size:1.0em;
+		a.absent {
+			text-decoration: none;
+			color: #cc0000;
 		}
 
+		a.anchor {
+			display: block;
+			text-decoration: none;
+			padding-left: 30px;
+			margin-left: -30px;
+			cursor: pointer;
+			position: absolute;
+			top: 0;
+			left: 0;
+			bottom: 0;
+		}
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			margin: 0px 0 0px;
+			padding: 0;
+			font-weight: normal;
+			-webkit-font-smoothing: antialiased;
+			cursor: text;
+			position: relative;
+		}
+
+		h1:hover a.anchor,
+		h2:hover a.anchor,
+		h3:hover a.anchor,
+		h4:hover a.anchor,
+		h5:hover a.anchor,
+		h6:hover a.anchor {
+			background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
+			text-decoration: none;
+		}
+
+		h1 tt,
+		h1 code {
+			font-size: inherit;
+		}
+
+		h2 tt,
+		h2 code {
+			font-size: inherit;
+		}
+
+		h3 tt,
+		h3 code {
+			font-size: inherit;
+		}
+
+		h4 tt,
+		h4 code {
+			font-size: inherit;
+		}
+
+		h5 tt,
+		h5 code {
+			font-size: inherit;
+		}
+
+		h6 tt,
+		h6 code {
+			font-size: inherit;
+		}
+
+		h1 {
+			font-size: 16px;
+			color: black;
+		}
+
+		h2 {
+			font-size: 14px;
+			border-bottom: 1px solid #cccccc;
+			color: black;
+		}
+
+		h3 {
+			font-size: 13px;
+		}
+
+		h4 {
+			font-size: 13px;
+		}
+
+		h5 {
+			font-size: 13px;
+		}
+
+		h6 {
+			color: #777777;
+			font-size: 14px;
+		}
+
+		p,
+		blockquote,
+		ul,
+		ol,
+		dl,
+		li,
+		table,
+		pre {
+			font-family: "Nanum Gothic";
+			margin: 15px 0;
+		}
 
 		hr {
-			background-color:dimgray;
-			border-width:0;
-			color:dimgray;
-			height:2px;
-			line-height:0;
-			/*margin:-.5em 10px 1.8571em 10px;*/
-			page-break-after:always;
-			text-align:center;
-			width:100%;
+			background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
+			border: 0 none;
+			color: #cccccc;
+			height: 4px;
+			padding: 0;
 		}
 
-		div.invalid {
-			overflow-y: visible;
-			height: 160px;
+		body>h2:first-child {
+			margin-top: 0;
+			padding-top: 0;
 		}
-		div.content {
-  			min-height:101%;
+
+		body>h1:first-child {
+			margin-top: 0;
+			padding-top: 0;
+		}
+
+		body>h1:first-child+h2 {
+			margin-top: 0;
+			padding-top: 0;
+		}
+
+		body>h3:first-child,
+		body>h4:first-child,
+		body>h5:first-child,
+		body>h6:first-child {
+			margin-top: 0;
+			padding-top: 0;
+		}
+
+		a:first-child h1,
+		a:first-child h2,
+		a:first-child h3,
+		a:first-child h4,
+		a:first-child h5,
+		a:first-child h6 {
+			margin-top: 0;
+			padding-top: 0;
+		}
+
+		h1 p,
+		h2 p,
+		h3 p,
+		h4 p,
+		h5 p,
+		h6 p {
+			margin-top: 0;
+		}
+
+		li p.first {
+			display: inline-block;
+		}
+
+		li {
+			margin: 0;
+		}
+
+		ul,
+		ol {
+			padding-left: 15px;
+		}
+
+		ul :first-child,
+		ol :first-child {
+			margin-top: 0;
+		}
+
+		dl {
+			padding: 0;
+		}
+
+		dl dt {
+			font-size: 14px;
+			font-weight: normal;
+			font-style: italic;
+			padding: 0;
+			margin: 15px 0 5px;
+		}
+
+		dl dt:first-child {
+			padding: 0;
+		}
+
+		dl dt> :first-child {
+			margin-top: 0;
+		}
+
+		dl dt> :last-child {
+			margin-bottom: 0;
+		}
+
+		dl dd {
+			margin: 0 0 15px;
+			padding: 0 15px;
+		}
+
+		dl dd> :first-child {
+			margin-top: 0;
+		}
+
+		dl dd> :last-child {
+			margin-bottom: 0;
+		}
+
+		/*
+blockquote {
+  border-left: 4px solid blue;
+  padding: 0 15px;
+  color: black; }
+  blockquote > :first-child {
+    margin-top: 0; }
+  blockquote > :last-child {
+    margin-bottom: 0; }*/
+
+		/*
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777; }
+  blockquote > :first-child {
+    margin-top: 0; }
+  blockquote > :last-child {
+    margin-bottom: 0; }*/
+
+
+
+		blockquote {
+			font-family: "Nanum Gothic";
+			;
+			background: #E8E8E8;
+			border-left: 10px solid maroon; // blue
+			margin: 0px;
+			padding: 4px;
+			/*quotes: "\201C""\201D""\2018""\2019";*/
+		}
+
+		blockquote:before {
+			font-family: "Nanum Gothic";
+			;
+			color: #ddd;
+			/*content: open-quote;*/
+			font-size: 4em;
+			/*line-height: 0.1em;*/
+			margin-right: 0.25em;
+			/*vertical-align: -0.4em;*/
+		}
+
+		blockquote p {
+			font-family: "Nanum Gothic";
+			;
+			display: inline;
+		}
+
+
+		table {
+			padding: 0;
+			border-collapse: collapse;
+		}
+
+		table tr {
+			border-top: 1px solid #cccccc;
+			background-color: white;
+			margin: 0;
+			padding: 0;
+		}
+
+		table tr:nth-child(2n) {
+			background-color: #E8E8E8;
+		}
+
+		table th {
+			font-weight: normal;
+			border: 1px solid #cccccc;
+			background-color: #E8E8E8;
+			margin: 0;
+			padding: 3px 3px;
+		}
+
+		table tr {
+			font-weight: normal;
+			border: 1px solid #cccccc;
+			margin: 0;
+			padding: 3px 3px;
+		}
+
+		table tr td {
+			border: 1px solid #cccccc;
+			margin: 0;
+			padding: 3px 3px;
+		}
+
+		table tr th :first-child,
+		table tr td :first-child {
+			margin-top: 0;
+		}
+
+		table tr th :last-child,
+		table tr td :last-child {
+			margin-bottom: 0;
+		}
+
+		img {
+			max-width: 100%;
+		}
+
+		span.frame {
+			display: block;
+			overflow: hidden;
+		}
+
+		span.frame>span {
+			border: 1px solid #dddddd;
+			display: block;
+			float: left;
+			overflow: hidden;
+			margin: 13px 0 0;
+			padding: 7px;
+			width: auto;
+		}
+
+		span.frame span img {
+			display: block;
+			float: left;
+		}
+
+		span.frame span span {
+			clear: both;
+			color: #333333;
+			display: block;
+			padding: 5px 0 0;
+		}
+
+		span.align-center {
+			display: block;
+			overflow: hidden;
+			clear: both;
+		}
+
+		span.align-center>span {
+			display: block;
+			overflow: hidden;
+			margin: 13px auto 0;
+			text-align: center;
+		}
+
+		span.align-center span img {
+			margin: 0 auto;
+			text-align: center;
+		}
+
+		span.align-right {
+			display: block;
+			overflow: hidden;
+			clear: both;
+		}
+
+		span.align-right>span {
+			display: block;
+			overflow: hidden;
+			margin: 13px 0 0;
+			text-align: right;
+		}
+
+		span.align-right span img {
+			margin: 0;
+			text-align: right;
+		}
+
+		span.float-left {
+			display: block;
+			margin-right: 13px;
+			overflow: hidden;
+			float: left;
+		}
+
+		span.float-left span {
+			margin: 13px 0 0;
+		}
+
+		span.float-right {
+			display: block;
+			margin-left: 13px;
+			overflow: hidden;
+			float: right;
+		}
+
+		span.float-right>span {
+			display: block;
+			overflow: hidden;
+			margin: 13px auto 0;
+			text-align: right;
+		}
+
+		code,
+		tt {
+			margin: 0 2px;
+			padding: 0 5px;
+			white-space: nowrap;
+			border: 1px solid #eaeaea;
+			background-color: #f8f8f8;
+			border-radius: 3px;
+		}
+
+		pre code {
+			margin: 0;
+			padding: 0;
+			white-space: pre;
+			border: none;
+			background: transparent;
+		}
+
+		.highlight pre {
+			background-color: #E8E8E8;
+			border: 1px solid #cccccc;
+			font-size: 12px;
+			line-height: 19px;
+			overflow: auto;
+			padding: 6px 10px;
+			border-radius: 3px;
+		}
+
+		pre {
+			background-color: #f8f8f8;
+			border: 1px solid #cccccc;
+			font-size: 12px;
+			line-height: 19px;
+			overflow: auto;
+			padding: 6px 10px;
+			border-radius: 3px;
+		}
+
+		pre code,
+		pre tt {
+			background-color: transparent;
+			border: none;
+		}
+
+		sup {
+			font-size: 0.83em;
+			vertical-align: super;
+			line-height: 0;
+		}
+
+		* {
+			-webkit-print-color-adjust: exact;
+		}
+
+		/* @media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:0 auto;
+    }
+} */
+		@media print {
+
+			table,
+			pre {
+				page-break-inside: avoid;
+			}
+
+			pre {
+				word-wrap: break-word;
+			}
 		}
 	</style>
 
 
 </head>
+
 <body>
 
 
 
 
-<div style="width:100%; margin-left:10px; float:left; border: 0px solid red; font-size:1.0em">
-	<div style="width:42%; float:left; font-weight:normal; margin-top:20px;background-color: white; border:0px solid red; font-size:1.0em; "><B>
-			Jaideep Ganguly <a href="assets/content/jaideep_ganguly.pdf" target="_blank"><span style="text-decoration:underline">[CV]</span></a></B><BR/> 
+	<div style="width:100%; margin-left:10px; float:left; border: 0px solid red; font-size:1.0em">
+		<div
+			style="width:42%; float:left; font-weight:normal; margin-top:20px;background-color: white; border:0px solid red; font-size:1.0em; ">
+			<B>
+				Jaideep Ganguly <a href="assets/content/jaideep_ganguly.pdf" target="_blank"><span
+						style="text-decoration:underline">[CV]</span></a></B><BR />
 			<!-- Jaideep Ganguly, <a href="http://web.mit.edu/facts/degrees.html" target="_blank">Sc.D.</a></B><BR/> -->
-		<!--
+			<!--
 		<?
 			$nl = intval(exec("wc -l 'log.txt'"));
 			echo("<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You are visitor# " . $nl.'<BR><BR>');
 		?>
 		-->
-	</div>	
+		</div>
 
-	<div style="width:30%; float:left; margin-top:-20px; margin-bottom:10px; margin-right:30px; background-color: white">
-		<img src="assets/img/jaideep-ladakh.png" style="width:90px; height:90px; margin-top:00px; background: #eee no-repeat center; border-radius:50%">
-	</div>
+		<div
+			style="width:30%; float:left; margin-top:-20px; margin-bottom:10px; margin-right:30px; background-color: white">
+			<img src="assets/img/jaideep-ladakh.png"
+				style="width:90px; height:90px; margin-top:00px; background: #eee no-repeat center; border-radius:50%">
+		</div>
 
-	<div style="width:22%; float:left; margin-top:0px;background-color: white; border:0px solid red;  ">
+		<div style="width:22%; float:left; margin-top:0px;background-color: white; border:0px solid red;  ">
 
-			<a href="mailto:someone@example.com" style="text-decoration:none"><font color="red" size="3">&#x2709;</font>&nbsp;&nbsp;ganguly.jaideep@gmail.com </a> <BR/>
-			<font color="red" size="2">&#x260F;</font> +91 996-360-0090	<br>	
-			<font color="red" size="2">&#9744;</font> Hyderabad, India	
+			<a href="mailto:someone@example.com" style="text-decoration:none">
+				<font color="red" size="3">&#x2709;</font>&nbsp;&nbsp;ganguly.jaideep@gmail.com
+			</a> <BR />
+			<font color="red" size="2">&#x260F;</font> +91 996-360-0090 <br>
+			<font color="red" size="2">&#9744;</font> Hyderabad, India
 
-	
-	 	<!-- Banner -->
-		<!--
+
+			<!-- Banner -->
+			<!--
 		<div id="player">
 			<iframe width="200" allowfullscreen
 			src="https://www.youtube.com/embed/JN6H4rQvwgY">
@@ -88,89 +565,103 @@
 		</div>
 		-->
 
-	</div>	
+		</div>
 
-<BR/>	
-</div>
+		<BR />
+	</div>
 
-<HR>
-
-
-<div style="width:32%; margin-left:10px; line-height:150%; float:left; margin-top:-05px; margin-bottom:10px;">
-<blockquote style="font-family: Nanum Gothic"><strong>Functional Programming & Kotlin</strong></blockquote>
-	<a href="assets/content/kotlin_cookbook.pdf" style="color:#800000">Jaideep's Kotlin Cookbook</a>		<BR>
-	<a href="assets/content/kotlin-vs-java.html">Kotlin vs Java</a>				<BR>
-	<a href="assets/content/kotlin-basics.html">Kotlin Basics</a>					<BR>
-	<a href="assets/content/kotlin-class.html">Kotlin Class</a>					<BR>
-	<a href="assets/content/kotlin-collections.html">Kotlin Collections</a>		<BR>
-	<a href="assets/content/kotlin-lambda.html">Kotlin Lambdas</a>				<BR>
-	<a href="assets/content/kotlin-higher-order-functions.html">Kotlin Higher Order Functions</a><BR>
-	<a href="assets/content/kotlin-fold.html">Kotlin Fold & Reduce</a>			<BR>
-	<a href="http://jussi.hallila.com/Kollections/">Kotlin Kollections CheatSheet</a><BR>
-	<a href="https://kotlinlang.org/docs/kotlin-docs.pdf">Kotlin Official Documentation</a>					<BR>
-
-	<blockquote style="font-family: Nanum Gothic"><strong>Scala</strong></blockquote>
-	<a href="assets/content/scala_in_an_hour.html">Scala in an Hour</a>
-	<BR>
-	<a href="assets/content/calling_java_from_scala.html">The Perils of calling Scala from Java</a>
-	<BR>
-
-	<blockquote style="font-family: Nanum Gothic"><strong>Concurrency</strong></blockquote>
-	<a href="assets/content/perils_of_concurrency.html">The Perils of Concurrency</a>	<BR>
-
-</div>
-
-<div style="width:32%; margin-left:10px; line-height:150%; float:left; margin-top:-05px; margin-bottom:10px;">
-<blockquote style="font-family: Nanum Gothic"><strong>IDEs & Tools</strong></blockquote>
-	<a href="https://www.linkedin.com/feed/update/urn:li:activity:6522136329810210816/" style="color:#800000"  target="_blank">Functional Programming - Design through Functional Composition & Monads - Jaideep Ganguly</a>
-	<BR/>	
-	<a href="https://github.com/ktorio/ktor" target="_blank">Building connected apps in Kotlin</a>
-	<BR/>	
-	<a href="https://github.com/kittinunf/fuel" target="_blank">HTTP networking library for Kotlin</a>
-	<BR/>	
-	<a href="https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/" target="_blank">Awesome responsive Bootsrap CSS collections</a>
-	<BR/>	
-
-	<a href="https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf" target="_blank">IntelliJ IDEA Shortcuts for Mac</a>
-	<BR/>	
-
-<blockquote style="font-family: Nanum Gothic"><strong>Management of Software Development</strong></blockquote>	
-	<a href="https://typora.io/" target="_blank">Typora Markdown Editor</a>
-	<BR/>
-	<a href="http://support.typora.io/Draw-Diagrams-With-Markdown" target="_blank">Data Flow & Gantt Charts with Typora</a>
-
-<blockquote style="font-family: Nanum Gothic"><strong>Teams & Tenets</strong></blockquote>
-	<a href="assets/content/tech_tenets.html" style="color:#800000" >Tech Tenets</a>			<BR>
-	<a href="assets/content/great_teams.html" style="color:#800000" >Great Teams</a>			<BR>
+	<HR>
 
 
-</div>
+	<div style="width:32%; margin-left:10px; line-height:150%; float:left; margin-top:-05px; margin-bottom:10px;">
+		<blockquote style="font-family: Nanum Gothic"><strong>Functional Programming & Kotlin</strong></blockquote>
+		<a href="assets/content/kotlin_cookbook.pdf" style="color:#800000">Jaideep's Kotlin Cookbook</a> <BR>
+		<a href="assets/content/kotlin-vs-java.html">Kotlin vs Java</a> <BR>
+		<a href="assets/content/kotlin-basics.html">Kotlin Basics</a> <BR>
+		<a href="assets/content/kotlin-class.html">Kotlin Class</a> <BR>
+		<a href="assets/content/kotlin-collections.html">Kotlin Collections</a> <BR>
+		<a href="assets/content/kotlin-lambda.html">Kotlin Lambdas</a> <BR>
+		<a href="assets/content/kotlin-higher-order-functions.html">Kotlin Higher Order Functions</a><BR>
+		<a href="assets/content/kotlin-fold.html">Kotlin Fold & Reduce</a> <BR>
+		<a href="http://jussi.hallila.com/Kollections/">Kotlin Kollections CheatSheet</a><BR>
+		<a href="https://kotlinlang.org/docs/kotlin-docs.pdf">Kotlin Official Documentation</a> <BR>
+
+		<blockquote style="font-family: Nanum Gothic"><strong>Scala</strong></blockquote>
+		<a href="assets/content/scala_in_an_hour.html">Scala in an Hour</a>
+		<BR>
+		<a href="assets/content/calling_java_from_scala.html">The Perils of calling Scala from Java</a>
+		<BR>
+
+		<blockquote style="font-family: Nanum Gothic"><strong>Concurrency</strong></blockquote>
+		<a href="assets/content/perils_of_concurrency.html">The Perils of Concurrency</a> <BR>
+
+	</div>
+
+	<div style="width:32%; margin-left:10px; line-height:150%; float:left; margin-top:-05px; margin-bottom:10px;">
+		<blockquote style="font-family: Nanum Gothic"><strong>IDEs & Tools</strong></blockquote>
+		<a href="https://www.linkedin.com/feed/update/urn:li:activity:6522136329810210816/" style="color:#800000"
+			target="_blank">Functional Programming - Design through Functional Composition & Monads - Jaideep
+			Ganguly</a>
+		<BR />
+		<a href="https://github.com/ktorio/ktor" target="_blank">Building connected apps in Kotlin</a>
+		<BR />
+		<a href="https://github.com/kittinunf/fuel" target="_blank">HTTP networking library for Kotlin</a>
+		<BR />
+		<a href="https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/" target="_blank">Awesome responsive
+			Bootsrap CSS collections</a>
+		<BR />
+
+		<a href="https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf"
+			target="_blank">IntelliJ IDEA Shortcuts for Mac</a>
+		<BR />
+
+		<blockquote style="font-family: Nanum Gothic"><strong>Management of Software Development</strong></blockquote>
+		<a href="https://typora.io/" target="_blank">Typora Markdown Editor</a>
+		<BR />
+		<a href="http://support.typora.io/Draw-Diagrams-With-Markdown" target="_blank">Data Flow & Gantt Charts with
+			Typora</a>
+
+		<blockquote style="font-family: Nanum Gothic"><strong>Teams & Tenets</strong></blockquote>
+		<a href="assets/content/tech_tenets.html" style="color:#800000">Tech Tenets</a> <BR>
+		<a href="assets/content/great_teams.html" style="color:#800000">Great Teams</a> <BR>
+
+
+	</div>
 
 
 
 
 
 
-<div style="width:32%; margin-left:10px; line-height:150%; float:left; margin-top:-05px; margin-bottom:10px;">
-<blockquote style="font-family: Nanum Gothic"><strong>Machine Learning</strong></blockquote>
+	<div style="width:32%; margin-left:10px; line-height:150%; float:left; margin-top:-05px; margin-bottom:10px;">
+		<blockquote style="font-family: Nanum Gothic"><strong>Machine Learning</strong></blockquote>
 
-	<a href = "https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463" target="_blank">Cheat Sheets for AI, Neural Net, ML, Deep Learning & Big Data</a>
-	<BR>
+		<a href="https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463"
+			target="_blank">Cheat Sheets for AI, Neural Net, ML, Deep Learning & Big Data</a>
+		<BR>
 
-	<a href="assets/content/ml.pdf" style="color:#800000">Understanding Machine Learning [Draft] - Jaideep Ganguly </a>	<BR>
+		<a href="assets/content/ml.pdf" style="color:#800000">Understanding Machine Learning [Draft] - Jaideep Ganguly
+		</a> <BR>
 
-	<a href="https://www.linkedin.com/pulse/brief-history-machine-learning-dr-jaideep-ganguly" style="color:#800000">A Brief History of Machine Learning - Jaideep Ganguly</a>
-	<BR/>
-	<a href="https://www.linkedin.com/pulse/machine-learning-grand-challenge-dr-jaideep-ganguly" style="color:#800000">Machine Learning & the Grand Challenge - Jaideep Ganguly</a>		
-	<BR/>
-	<a href="https://github.com/ageitgey/face_recognition?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Simple Face Recognition</a>
+		<a href="https://www.linkedin.com/pulse/brief-history-machine-learning-dr-jaideep-ganguly"
+			style="color:#800000">A Brief History of Machine Learning - Jaideep Ganguly</a>
+		<BR />
+		<a href="https://www.linkedin.com/pulse/machine-learning-grand-challenge-dr-jaideep-ganguly"
+			style="color:#800000">Machine Learning & the Grand Challenge - Jaideep Ganguly</a>
+		<BR />
+		<a
+			href="https://github.com/ageitgey/face_recognition?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more">Simple
+			Face Recognition</a>
 
-<blockquote style="font-family: Nanum Gothic"><strong>Trends</strong></blockquote>
-	<a href="https://medium.com/@ilyasz/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7?source=email-e56dcadc1b1c-1563498544696-digest.reader------0-49------------------95231e53_964e_4454_b093_c4c8c90d54a9-1&sectionName=top">OOP - The Trillion Dollar Disaster</a>	
-	<BR/>
-	<a href="https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53">Goodbye OOP</a>	
-</div>
+		<blockquote style="font-family: Nanum Gothic"><strong>Trends</strong></blockquote>
+		<a
+			href="https://medium.com/@ilyasz/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7?source=email-e56dcadc1b1c-1563498544696-digest.reader------0-49------------------95231e53_964e_4454_b093_c4c8c90d54a9-1&sectionName=top">OOP
+			- The Trillion Dollar Disaster</a>
+		<BR />
+		<a href="https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53">Goodbye OOP</a>
+	</div>
 
 
 </body>
+
 </html>
