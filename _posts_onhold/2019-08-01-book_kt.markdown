@@ -1,0 +1,12 @@
+---
+title: Kotlin books by Jaideep Ganguly
+author: Jaideep Ganguly
+---
+
+{% include header.html %}
+
+[Kotlin Cookbook](/assets/kotlin_cookbook.pdf)
+
+[Algorithms in Kotlin](/assets/kotlin_algo.pdf)
+
+[More Coming](/assets/test.pdf)

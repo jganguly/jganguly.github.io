@@ -1,0 +1,12 @@
+---
+title: Foundations of Machine Learning by Jaideep Ganguly
+author: Jaideep Ganguly
+---
+
+{% include header.html %}
+
+
+[Foundations of Machine Learning - DRAFT](/assets/ml.pdf)
+
+
+
