@@ -613,9 +613,10 @@ blockquote {
     /* Collapsible (for Blog)  */
     .collapsible {
         background-color: lightgray;
-        color: white;
+        height:20px;
+        color: maroon;
         cursor: pointer;
-        padding: 20px;
+        padding: 0px;
         width: 100px;
         border: none;
         text-align: left;
@@ -648,16 +649,15 @@ blockquote {
 
 <body>
 
-    <!-- Menubar-->
-    <div style="width:100%; margin: 0px; padding:0px; border: 0px solid red" id="menu">
-        <ul id="ul1">
-            <li><a style="font-weight:bold" href="home.html" target="_self">ABOUT</a></li>    
-            <li><a style="font-weight:bold" href="blog.html" target="_self">BLOG</a></li>    
-            <li><a style="font-weight:bold" href="programming.html" target="_self">PROGRAMMING</a></li>    
-            <li><a style="font-weight:bold" href="ml.html" target="_self">MACHINE LEARNING</a></li>      
-            <li><a style="font-weight:bold" href="other.html" target="_self">OTHER</a></li>   
-        </ul>
-    </div>
+	<!-- Menubar-->
+	<div style="width:100%; margin: 0px; padding:0px; border: 0px solid red" id="menu">
+		<ul id="ul1">
+			<li><a style="font-weight:bold" href="about.html" target="_self">ABOUT</a></li>    
+			<li><a style="font-weight:bold" href="blog.html" target="_self">BLOG</a></li>    
+			<li><a style="font-weight:bold" href="programming.html" target="_self">PROGRAMMING</a></li>    
+			<li><a style="font-weight:bold" href="other.html" target="_self">OTHER</a></li>   
+		</ul>
+	</div>
 
     <hr style="height:0px; border: 1px solid lightgray;" />
     <BR>
@@ -697,20 +697,19 @@ blockquote {
         <BR>
 
         <div>
-            <button class="collapsible" style="font-family:Roboto; width:100%; text-align:left;">July 11, 2020 - Today's topic</button>
+            <button class="collapsible" style="font-family:Roboto; width:100%; text-align:left;">July 11, 2020 - Mobile Apps</button>
             <div class="content" style="font-family:Roboto;">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                A great deal of time and effort is spent in building pretty mobile apps. In most cases they mimic desktop apps and 
+                end up being "baby" versions. But a mobile is all about voice, camera, location and certain sensors. The right experience
+                would have been able to speak to the app, take a picture of something and ask the mobile to relate to it, etc. Maps are
+                the only feature that seems to be regularly used but not voice, image and videos. For short sentences, speech recognition works 
+                pretty well. Similarly, images can be accurately classified using CNN or its variations provided the number of classes are 
+                limited. We are building new mobile apps powered by next generation voice and image recognition algorithms. 
             </div>
         <div>
         <BR>
 
-        <div>
-            <button class="collapsible" style="font-family:Roboto;width:100%; text-align:left;">July 10, 2020 - Another big topic</button>
-            <div class="content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            </div>	
-        <div>	
-        <BR>
+
 
     <!-- Script for collapsible -->
     <script>
