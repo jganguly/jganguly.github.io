@@ -642,24 +642,6 @@ blockquote {
 
     </style>
 
-    <!-- Script for collapsible -->
-    <script>
-        var coll = document.getElementsByClassName("collapsible");
-        var i;
-        
-        for (i = 0; i < coll.length; i++) {
-            coll[i].addEventListener("click", function() {
-                this.classList.toggle("active");
-                var content = this.nextElementSibling;
-                if (content.style.display === "block") {
-                    content.style.display = "none";
-                } else {
-                    content.style.display = "block";
-                }
-            });
-        }    
-    </script>
-
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145399496-1"></script>
@@ -721,7 +703,7 @@ blockquote {
     <!-- Column 2-->
     <div style="width:72%; margin-left:10px; line-height:150%; float:left; margin-top:-05px; margin-bottom:10px;">
 
-        <h1>BLOG (click (toggle) on the date to collapse or expand)</h1>
+        <h1>BLOG (click on heading to collapse or expand)</h1>
         <BR>
 
         <div>
@@ -755,6 +737,23 @@ blockquote {
         <BR>            
 
 
+    <!-- Script for collapsible -->
+    <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+        
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                } else {
+                    content.style.display = "block";
+                }
+            });
+        }    
+    </script>
 
 
 
