@@ -741,11 +741,13 @@ blockquote {
         <BR>   
 
         <button class="collapsible" style="font-family:Roboto; width:100%; text-align:left;">Major Sanskrit Sloka from Bhagavad Gita</button>
-        <div class="content" style="font-family: Sanskrit; font-size: 18px; display:none;">
+        <div class="content" style="font-family: Sanskrit; font-size: 18px; display:block;">
             <b>यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।<br>
             अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥</b><br>
             <i>भगवद्गीता ४.७</i>
         </div>
+
+
 
 
     <!-- Script for collapsible -->
@@ -763,6 +765,9 @@ blockquote {
                     content.style.display = "block";
                 }
             });
+            // Set display to "block" for all content initially
+            var content = coll[i].nextElementSibling;
+            content.style.display = "block";
         }    
     </script>
 
