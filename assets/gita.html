@@ -718,26 +718,7 @@ blockquote {
     <!-- Column 2-->
     <div style="width:72%; margin-left:10px; line-height:150%; float:left; margin-top:-05px; margin-bottom:10px;">
 
-        <!-- Script for collapsible -->
-        <script>
-            var coll = document.getElementsByClassName("collapsible");
-            var i;
-            
-            for (i = 0; i < coll.length; i++) {
-                coll[i].addEventListener("click", function() {
-                    this.classList.toggle("active");
-                    var content = this.nextElementSibling;
-                    if (content.style.display === "block") {
-                        content.style.display = "none";
-                    } else {
-                        content.style.display = "block";
-                    }
-                });
-                // Set display to "block" for all content initially
-                var content = coll[i].nextElementSibling;
-                content.style.display = "none";    // "none" | "block"
-            }    
-        </script>        
+
 
         <h1>Teachings from the Bhagavad Gita (click on heading below to expand, collapse)</h1> <BR>
 
@@ -803,7 +784,26 @@ blockquote {
         <BR>
 
 
-
+        <!-- Script for collapsible -->
+        <script>
+            var coll = document.getElementsByClassName("collapsible");
+            var i;
+            
+            for (i = 0; i < coll.length; i++) {
+                coll[i].addEventListener("click", function() {
+                    this.classList.toggle("active");
+                    var content = this.nextElementSibling;
+                    if (content.style.display === "block") {
+                        content.style.display = "none";
+                    } else {
+                        content.style.display = "block";
+                    }
+                });
+                // Set display to "block" for all content initially
+                var content = coll[i].nextElementSibling;
+                content.style.display = "none";    // "none" | "block"
+            }    
+        </script>        
     </div>
 
 </body>
