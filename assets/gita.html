@@ -718,6 +718,27 @@ blockquote {
     <!-- Column 2-->
     <div style="width:72%; margin-left:10px; line-height:150%; float:left; margin-top:-05px; margin-bottom:10px;">
 
+        <!-- Script for collapsible -->
+        <script>
+            var coll = document.getElementsByClassName("collapsible");
+            var i;
+            
+            for (i = 0; i < coll.length; i++) {
+                coll[i].addEventListener("click", function() {
+                    this.classList.toggle("active");
+                    var content = this.nextElementSibling;
+                    if (content.style.display === "block") {
+                        content.style.display = "none";
+                    } else {
+                        content.style.display = "block";
+                    }
+                });
+                // Set display to "block" for all content initially
+                var content = coll[i].nextElementSibling;
+                content.style.display = "none";    // "none" | "block"
+            }    
+        </script>        
+
         <h1>Teachings from the Bhagavad Gita (click on heading below to expand, collapse)</h1> <BR>
 
         <button class="collapsible" style="font-family:Roboto; width:100%; text-align:left;">Eminent scientists who studied the Bhagavad Gita</button>
@@ -765,26 +786,21 @@ blockquote {
 
 
 
-    <!-- Script for collapsible -->
-    <script>
-        var coll = document.getElementsByClassName("collapsible");
-        var i;
-        
-        for (i = 0; i < coll.length; i++) {
-            coll[i].addEventListener("click", function() {
-                this.classList.toggle("active");
-                var content = this.nextElementSibling;
-                if (content.style.display === "block") {
-                    content.style.display = "none";
-                } else {
-                    content.style.display = "block";
-                }
-            });
-            // Set display to "block" for all content initially
-            var content = coll[i].nextElementSibling;
-            content.style.display = "none";    // "none" | "block"
-        }    
-    </script>
+        <button class="collapsible" style="font-family:Roboto; width:100%; text-align:left;">Bhagavad Gita, Chapter 6, Verse 5</button>
+        <div class="content" style="font-family: Sanskrit; font-size: 18px; display:block;">
+            <b> उद्धरेदात्मनात्मानं      <br>
+                नात्मानमवसादयेत्।    <br>
+                आत्मैव ह्यात्मनो बन्धुर्  <br>
+                आत्मैव रिपुरात्मनः॥   </b><br><br>
+
+                uddhared ātmanātmānaṁ <br>
+                nātmānam avasādayet <br>
+                ātmaiva hyātmano bandhur <br>
+                ātmaiva ripur ātmanaḥ  <br><br>
+
+                Let a man raise himself by his own efforts. Let him not degrade himself; for a person's own self is his friend, and his own self is his enemy..    
+        </div>
+        <BR>
 
 
 
