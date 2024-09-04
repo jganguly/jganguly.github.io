@@ -1,0 +1,134 @@
+\documentclass[article, a4paper, 11pt, twoside, openright, english]{memoir}
+\include{mystandard}
+
+
+% \documentclass[a4paper,10pt]{article}
+% \usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{enumitem}\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{fontawesome5}
+
+% Colors
+\definecolor{myblue}{RGB}{0, 122, 255}
+\definecolor{mygray}{RGB}{128, 128, 128}
+\definecolor{mygreen}{RGB}{0, 204, 0}
+
+% Font setup
+\renewcommand{\rmdefault}{ptm}
+\renewcommand{\sfdefault}{phv}
+
+% Section formatting
+\titleformat{\section}{\large\bfseries\color{myblue}}{}{0em}{}[\titlerule]
+\titleformat{\subsection}[runin]{\bfseries\color{myblue}}{}{0em}{}[:]
+
+% Link formatting
+\hypersetup{
+    colorlinks=true,
+    linkcolor=myblue,
+    urlcolor=myblue,
+    pdftitle={Resume - Dr. Jaideep Ganguly},
+    pdfpagemode=UseNone,
+}
+
+
+% Define the custom tcolorbox environment
+\tcolorboxenvironment{mybox}{
+  colback=lightgray, % Background color
+  colframe=white,    % Border color
+  boxrule=0pt,       % Border thickness
+  sharp corners,     % Rounded corners
+  left=1mm,          % Left margin inside the box
+  right=1mm,         % Right margin inside the box
+  top=1mm,           % Top margin inside the box
+  bottom=1mm,        % Bottom margin inside the box
+  width=\textwidth,  % Box width
+  halign=center,     % Horizontal alignment
+  valign=center      % Vertical alignment
+}
+
+% Document
+\begin{document}
+
+\pagestyle{empty}
+
+% Header
+\begin{tcolorbox}[colback=gray!20, colframe=white, boxrule=0pt, sharp corners, width=\textwidth, halign=center]
+    \textbf{\Large Dr. Jaideep Ganguly, Sc.D. (MIT)} \\
+    \vspace{1mm}
+   Hyderabad, India |
+   \textcolor{maroon}{\faPhone} \ +91 996-360-0090 | \textcolor{maroon}{\faEnvelope} \ \href{mailto:ganguly.jaideep@gmail.com}{ganguly.jaideep@gmail.com} | 
+   LinkedIn
+   \href{https://www.linkedin.com/in/}{\faLinkedin}
+%    | Github \href{https://jganguly.github.io/}{\faGithub} 
+\end{tcolorbox}
+% \hrule
+
+\vspace{-8mm} 
+\section*{Summary}
+As technology increasingly drives business outcomes, my endeavor is to equip the next generation of tech and business professionals with the tools they need to harness technological advancements and achieve transformative success.
+
+I am an \cb{innovative} executive with over 30 years of real world experience in \cb{AI} and \cb{AWS} hosted \cb{software engineering}, specializing in \cb{Deep Learning}, \cb{Large Language Models}, and high performance software development using the \cb{Rust} language. 
+% Known for my results-oriented approach, I excel in leading the design and implementation of scalable and reliable software services to tackle real-world challenges. 
+
+\vspace{-5mm} 
+\section*{Experience}
+I have led large engineering teams at \cb{Amazon} for 9.5 years, culminating in the role of Director of Software Engineering. Prior to that I was Director of Engineering at \cb{Microsoft} where I led my team to ship two versions of Windows Server.
+
+
+% \noindent \textbf{\textcolor{myblue}{Principal Architect, Core Foundation Services, Salesforce}} \hfill \textcolor{myblue}{\textit{Mar 2024 - Present}} \\
+% Design and implementation of next-generation asynchronous services infrastructure with a focus on massive scalability and 5 nines reliability.
+
+% \noindent \textbf{\textcolor{myblue}{Vice President, Core Foundation Services, Salesforce}} \hfill \textcolor{myblue}{\textit{Feb 2022 - Feb 2024}} \\
+% Responsible for tier-1 async services for message processing that handles hundreds of billions of messages every month reliably and predictably. A sophisticated diagnostic system based on LLM and “LangChain” - a framework designed for developing applications using language models, like OpenAI's GPT models.
+
+% \noindent \textbf{\textcolor{myblue}{Head of Compass India Development Center}} \hfill \textcolor{myblue}{\textit{Dec 2019 - Jul 2020}} \\
+% Set up Compass India software development center from scratch; built a team of world-class software engineers, including senior engineering leaders from top software companies to deliver low latency server endpoints and deep learning models and mobile apps.
+
+% \noindent \textbf{\textcolor{myblue}{Director of Software Engineering, Amazon, Hyderabad}} \hfill \textcolor{myblue}{\textit{Jun 2010 - Nov 2019}} \\
+% As the leader of the FinTech team at Amazon, I oversaw the computation of payables exceeding a hundred billion dollars annually for Amazon’s global business partners. I led my team in developing Machine Learning models to detect fraud and outliers, achieve near-perfect automated responses, and identify patterns to derive actionable business insights, all while adhering to Amazon's stringent service level requirements.
+
+% \noindent \textbf{\textcolor{myblue}{Director of Software Engineering, Microsoft, Hyderabad}} \hfill \textcolor{myblue}{\textit{Jul 2006 - Aug 2010}} \\
+% Led my team in shipping two versions of Windows Server, including the Remote Desktop Services Gateway, which secures RDP sessions using HTTPS and TLS. We won Microsoft's Worldwide Engineering Excellence Award for Trustworthy Computing and integrated with System Center Virtual Machine Manager (SCVMM) for dynamic virtual machine placement. I also received Microsoft Management Excellence Award.
+
+\vspace{-5mm} 
+\section*{Education}
+\noindent \textcolor{blue}{\textbf{Doctor of Science}}, \link{Massachusetts Institute of Technology}{https://www.mit.edu}, 1989.
+Dissertation on formalization, design, and implementation of a knowledge-based system for qualitative reasoning.
+
+\noindent \textcolor{blue}{\textbf{Master of Science}}, \link{Massachusetts Institute of Technology}{https://www.mit.edu}, 1986.
+
+\noindent \textcolor{blue}{\textbf{Bachelor of Technology (Honors)}}, \link{Indian Institute of Technology, Kharagpur}{https://www.iitkgp.ac.in/}, 1984.
+Awarded the “Sir Dorabji Tata Award” for outstanding academic performance during undergraduate studies.
+
+\vspace{-5mm} 
+\section*{Articles \& Books}
+\begin{itemize}[left=0pt, itemsep=1pt]
+    \item \link{A Brief History of Machine Learning}{https://www.linkedin.com/pulse/brief-history-machine-learning-dr-jaideep-ganguly}
+    \item \link{Machine Learning and the Grand Challenge}{https://www.linkedin.com/pulse/machine-learning-grand-challenge-dr-jaideep-ganguly}
+    \item \link{Moving to the Rust Programming Language}{https://jganguly.github.io/assets/rust.pdf}
+    \item \link{Kotlin Cookbook}{https://jganguly.github.io/assets/kotlin_cookbook.pdf}
+    \item \link{Functional Programming – Design through Functional Composition \& Monads}{https://www.linkedin.com/feed/update/urn:li:activity:6522136329810210816}
+\end{itemize}
+
+\vspace{-5mm} 
+\section*{Activities}
+\begin{itemize}[left=0pt, itemsep=1pt]
+    \item \link{AIDays Keynote: AI - Past, Present \& Future, March 31, 2024, Hyderabad.}{https://jganguly.github.io/assets/ml.html}
+    \item Distinguished Lecture on “Recurrent Neural Networks in Sequence Learning for Dialog Systems”, November 16th, 2016, IIIT Hyderabad.
+    \item Invited talk titled “Recurrent Neural Networks in Sequence Learning” at Department of Computer Science, Indian Institute of Technology, Kharagpur, Nov 3, 2016.
+    \item Educational Counselor, MIT to interview and identify the truly gifted and brilliant applicants for admission to MIT from India.
+    \item Invited speaker at IET – Institute of Engineering \& Technology international conference on Software as a Service, Oct 2008, Bangalore, India.
+    % \item Participated in 3GSM conference in Barcelona, Feb 2007.
+    % \item President, Software Exporters Association of Pune (SEAP), 2003-04.
+    % \item Participated in Auto-ID conference for the inaugural launch of RFID standards, Chicago, Nov 2003.
+    \item Adjunct Professor, Indian Institute of Technology, Kharagpur, Sep 1997 - Jan 1998.
+    \item Invited speaker on “Qualitative Behavior of Engineering Systems from Structural Descriptions”, Knowledge Systems Laboratory, Department of Computer Science, Stanford University, 1989.
+    \item Invited speaker on Expert Systems at Cornell University, 1987.
+\end{itemize}
+
+\vspace{-7mm} 
+\section*{Hobbies}
+An avid pianist, enjoy playing \link{Bollywood melodies and Tagore songs}{https://www.youtube.com/playlist?list=PL6k67hWr67xc1F0LRaSlx_1vTMYis7ycT}.
+
+\end{document}
