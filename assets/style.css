@@ -1,12 +1,12 @@
 <style>
 	body {
 
-	  font-family: 'Roboto', Arial, sans-serif;   /* your preferred font */
-	  font-size: 16px;                            /* adjust as desired */
+	  font-family: 'Roboto';   /* your preferred font */
+	  font-size: 12px;                            /* adjust as desired */
 	  line-height: 1.5;                           /* good readability */
 	  color: #222;  
 
-  		
+
 		font-family: "Roboto";
 		/*font-family: "Source Sans Pro", SSPro , Helvetica, arial, sans-serif;*/
 		font-size: 0.75em;
