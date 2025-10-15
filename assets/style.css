@@ -1,6 +1,12 @@
 <style>
-	@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Lato:wght@400;700&display=swap');	
 	body {
+
+	  font-family: 'Roboto', Arial, sans-serif;   /* your preferred font */
+	  font-size: 16px;                            /* adjust as desired */
+	  line-height: 1.5;                           /* good readability */
+	  color: #222;  
+
+  		
 		font-family: "Roboto";
 		/*font-family: "Source Sans Pro", SSPro , Helvetica, arial, sans-serif;*/
 		font-size: 0.75em;
