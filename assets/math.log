@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.24)  5 NOV 2025 08:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.24)  13 NOV 2025 07:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1764,12 +1764,276 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.60 		<
-        a href="engmath-00.pdf" target="_blank">00 - Engineering Mathematics...
+l.60 	  	<
+          a href="https://forms.gle/AQNpjYwanEm5YBb96" target="_blank" rel="...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+Missing character: There is no < in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no Q in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no Y in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no Y in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no " in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.60 ...s://forms.gle/AQNpjYwanEm5YBb96" target="_
+                                                  blank" rel="noopener noref...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.64 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 60--64
+[]
+ []
+
+
+Overfull \hbox (52.18805pt too wide) in paragraph at lines 60--64
+[]\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 rel \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (132.733pt too wide) in paragraph at lines 60--64
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 noopenernoreferrer\OT1/cmr/m/n/10 "\OML/cmm/m
+/it/10 style \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (30.37158pt too wide) in paragraph at lines 60--64
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 text \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (52.5725pt too wide) in paragraph at lines 60--64
+\OML/cmm/m/it/10 decoration \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (63.66168pt too wide) in paragraph at lines 60--64
+\OML/cmm/m/it/10 underline\OT1/cmr/m/n/10 ; " \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (78.5545pt too wide) in paragraph at lines 60--64
+\OML/cmm/m/it/10 FeedbackForm <
+ []
+
+
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 60--64
+\OML/cmm/m/it/10 =a ><
+ []
+
+
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 60--64
+\OML/cmm/m/it/10 BR >$ 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 		<
+        !-- <strong>Engineering Mathematics</strong> <BR> -->
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no < in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no ' in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ; in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no < in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no > in font nullfont!
 Missing character: There is no < in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -1804,92 +2068,292 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.60 		<a href="engmath-00.pdf" target="_
-                                         blank">00 - Engineering Mathematics...
+l.67 		<a href="engmath-00.pdf" target="_
+                                         blank">00 - Preface</a> <BR/>
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.62 
+l.74 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 60--62
+Overfull \hbox (20.0pt too wide) in paragraph at lines 65--74
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 60--62
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 65--74
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 60--62
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 65--74
 \OT1/cmr/m/n/10 00 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (125.23608pt too wide) in paragraph at lines 60--62
-\OML/cmm/m/it/10 EngineeringMathematics \OMS/cmsy/m/n/10 ^^@
- []
-
-
-Overfull \hbox (48.05215pt too wide) in paragraph at lines 60--62
+Overfull \hbox (48.05215pt too wide) in paragraph at lines 65--74
 \OML/cmm/m/it/10 Preface <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 60--62
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 65--74
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (39.09029pt too wide) in paragraph at lines 60--62
+Overfull \hbox (39.09029pt too wide) in paragraph at lines 65--74
 \OML/cmm/m/it/10 BR= ><
  []
 
 
-Overfull \hbox (37.02087pt too wide) in paragraph at lines 60--62
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 65--74
 \OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (52.00362pt too wide) in paragraph at lines 60--62
+Overfull \hbox (52.00362pt too wide) in paragraph at lines 65--74
 \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 engmath \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (69.95726pt too wide) in paragraph at lines 60--62
+Overfull \hbox (69.95726pt too wide) in paragraph at lines 65--74
 \OT1/cmr/m/n/10 01\OML/cmm/m/it/10 :pdf\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 target
  \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (44.56186pt too wide) in paragraph at lines 60--62
+Overfull \hbox (44.56186pt too wide) in paragraph at lines 65--74
 \OT1/cmr/m/n/10 "[]\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 60--62
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 65--74
 \OT1/cmr/m/n/10 01 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (115.54483pt too wide) in paragraph at lines 60--62
+Overfull \hbox (115.54483pt too wide) in paragraph at lines 65--74
 \OML/cmm/m/it/10 ScientificComputation <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 60--62
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 65--74
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 60--62
+Overfull \hbox (39.09029pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 BR= ><
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (52.00362pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 engmath \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (69.95726pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 02\OML/cmm/m/it/10 :pdf\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 target
+ \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (44.56186pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 "[]\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 02 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (52.33528pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 Function <
+ []
+
+
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 =a ><
+ []
+
+
+Overfull \hbox (39.09029pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 BR= ><
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (52.00362pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 engmath \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (69.95726pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 03\OML/cmm/m/it/10 :pdf\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 target
+ \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (44.56186pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 "[]\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 03 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (36.6426pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 Limit <
+ []
+
+
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 =a ><
+ []
+
+
+Overfull \hbox (39.09029pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 BR= ><
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (52.00362pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 engmath \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (69.95726pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 04\OML/cmm/m/it/10 :pdf\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 target
+ \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (44.56186pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 "[]\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 04 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (84.85431pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 Differentiation <
+ []
+
+
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 =a ><
+ []
+
+
+Overfull \hbox (39.09029pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 BR= ><
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (52.00362pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 engmath \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (69.95726pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 05\OML/cmm/m/it/10 :pdf\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 target
+ \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (44.56186pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 "[]\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 05 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (63.11533pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 Integration <
+ []
+
+
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 =a ><
+ []
+
+
+Overfull \hbox (39.09029pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 BR= ><
+ []
+
+
+Overfull \hbox (37.02087pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 ahref \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (52.00362pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 engmath \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (69.95726pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 06\OML/cmm/m/it/10 :pdf\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 target
+ \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (44.56186pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 "[]\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
+ []
+
+
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 65--74
+\OT1/cmr/m/n/10 06 \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (206.20866pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 FirstOrderOrdinaryDifferentialEquation <
+ []
+
+
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 65--74
+\OML/cmm/m/it/10 =a ><
+ []
+
+
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 65--74
 \OML/cmm/m/it/10 BR= >$ 
  []
 
@@ -1901,7 +2365,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.62 
+l.74 
      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1915,7 +2379,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.63 		<
+l.77 		<
         BR/>
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1926,7 +2390,7 @@ Missing character: There is no R in font nullfont!
 Missing character: There is no / in font nullfont!
 Missing character: There is no > in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 63--64
+Overfull \hbox (20.0pt too wide) in paragraph at lines 77--78
 [] 
  []
 
@@ -1937,7 +2401,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.65 		<
+l.79 		<
         a href="engmath.pdf" target="_blank">Engineering Mathematics</a><spa...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1974,7 +2438,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.65 		<a href="engmath.pdf" target="_
+l.79 		<a href="engmath.pdf" target="_
                                       blank">Engineering Mathematics</a><spa...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1982,69 +2446,69 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.69 
+l.83 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 65--69
+Overfull \hbox (20.0pt too wide) in paragraph at lines 79--83
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 65--69
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 79--83
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (128.0138pt too wide) in paragraph at lines 65--69
+Overfull \hbox (128.0138pt too wide) in paragraph at lines 79--83
 \OML/cmm/m/it/10 EngineeringMathematics <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 65--69
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 79--83
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (52.95955pt too wide) in paragraph at lines 65--69
+Overfull \hbox (52.95955pt too wide) in paragraph at lines 79--83
 \OML/cmm/m/it/10 spanstyle \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (32.54747pt too wide) in paragraph at lines 65--69
+Overfull \hbox (32.54747pt too wide) in paragraph at lines 79--83
 \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 color \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (69.53444pt too wide) in paragraph at lines 65--69
+Overfull \hbox (69.53444pt too wide) in paragraph at lines 79--83
 \OML/cmm/m/it/10 crimson\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 font \OMS/cmsy/m/n/1
 0 ^^@
  []
 
 
-Overfull \hbox (35.5863pt too wide) in paragraph at lines 65--69
+Overfull \hbox (35.5863pt too wide) in paragraph at lines 79--83
 \OML/cmm/m/it/10 weight \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (45.30206pt too wide) in paragraph at lines 65--69
+Overfull \hbox (45.30206pt too wide) in paragraph at lines 79--83
 \OML/cmm/m/it/10 bold\OT1/cmr/m/n/10 ; " \OML/cmm/m/it/10 ><
  []
 
 
-Overfull \hbox (44.34032pt too wide) in paragraph at lines 65--69
+Overfull \hbox (44.34032pt too wide) in paragraph at lines 79--83
 \OML/cmm/m/it/10 =span ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 65--69
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 79--83
 \OML/cmm/m/it/10 BR >
  []
 
 
-Overfull \hbox (1550.37291pt too wide) in paragraph at lines 65--69
+Overfull \hbox (1550.37291pt too wide) in paragraph at lines 79--83
 \OML/cmm/m/it/10 Mathematicsisafundamentaltoolusedbyengineersandscientiststohel
 punderstandvariousphenomena:Inthethebookbelow; Iintroducevariousconceptsinmathe
 matics; frombasictoadvanced; thatareexplainedinacrispandconciseway:Thebooklever
@@ -2053,12 +2517,12 @@ escipycodelisting: <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 65--69
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 79--83
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 65--69
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 79--83
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -2069,7 +2533,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.70 		<
+l.84 		<
         a href="https://www.youtube.com/watch?v=uhbVkHcL9S8&list=PLobk-cHoGB...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2127,7 +2591,7 @@ Missing character: There is no 9 in font nullfont!
 Missing character: There is no S in font nullfont!
 Missing character: There is no 8 in font nullfont!
 ! Misplaced alignment tab character &.
-l.70 ...tps://www.youtube.com/watch?v=uhbVkHcL9S8&
+l.84 ...tps://www.youtube.com/watch?v=uhbVkHcL9S8&
                                                   list=PLobk-cHoGBagVx5DuBnX...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2187,7 +2651,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.70 ...bk-cHoGBagVx5DuBnXEihnUOGPMP8IN" target="_
+l.84 ...bk-cHoGBagVx5DuBnXEihnUOGPMP8IN" target="_
                                                   blank">My Youtube channel ...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2195,38 +2659,38 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.72 
+l.86 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 70--72
+Overfull \hbox (20.0pt too wide) in paragraph at lines 84--86
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 70--72
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 84--86
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (229.79419pt too wide) in paragraph at lines 70--72
+Overfull \hbox (229.79419pt too wide) in paragraph at lines 84--86
 \OML/cmm/m/it/10 MyYoutubechannelonEngineeringMathematics: <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 70--72
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 84--86
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 70--72
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 84--86
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 70--72
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 84--86
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -2237,7 +2701,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.73 		<
+l.87 		<
         a href="tensor.pdf" target="_blank">Tensor Calculus and Differential...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2273,7 +2737,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.73 		<a href="tensor.pdf" target="_
+l.87 		<a href="tensor.pdf" target="_
                                      blank">Tensor Calculus and Differential...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2281,94 +2745,94 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.78 
+l.92 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 73--78
+Overfull \hbox (20.0pt too wide) in paragraph at lines 87--92
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 73--78
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 87--92
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (200.49802pt too wide) in paragraph at lines 73--78
+Overfull \hbox (200.49802pt too wide) in paragraph at lines 87--92
 \OML/cmm/m/it/10 TensorCalculusandDifferentialGeometry \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (93.34131pt too wide) in paragraph at lines 73--78
+Overfull \hbox (93.34131pt too wide) in paragraph at lines 87--92
 \OML/cmm/m/it/10 byJaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 73--78
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 87--92
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (10.55559pt too wide) in paragraph at lines 73--78
+Overfull \hbox (10.55559pt too wide) in paragraph at lines 87--92
 \OT1/cmr/m/n/10 ! \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (18.33331pt too wide) in paragraph at lines 73--78
+Overfull \hbox (18.33331pt too wide) in paragraph at lines 87--92
 \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 <
  []
 
 
-Overfull \hbox (52.95955pt too wide) in paragraph at lines 73--78
+Overfull \hbox (52.95955pt too wide) in paragraph at lines 87--92
 \OML/cmm/m/it/10 spanstyle \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (32.54747pt too wide) in paragraph at lines 73--78
+Overfull \hbox (32.54747pt too wide) in paragraph at lines 87--92
 \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 color \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (69.53444pt too wide) in paragraph at lines 73--78
+Overfull \hbox (69.53444pt too wide) in paragraph at lines 87--92
 \OML/cmm/m/it/10 crimson\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 font \OMS/cmsy/m/n/1
 0 ^^@
  []
 
 
-Overfull \hbox (35.5863pt too wide) in paragraph at lines 73--78
+Overfull \hbox (35.5863pt too wide) in paragraph at lines 87--92
 \OML/cmm/m/it/10 weight \OT1/cmr/m/n/10 :
  []
 
 
-Overfull \hbox (37.52426pt too wide) in paragraph at lines 73--78
+Overfull \hbox (37.52426pt too wide) in paragraph at lines 87--92
 \OML/cmm/m/it/10 bold\OT1/cmr/m/n/10 ; " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (39.5428pt too wide) in paragraph at lines 73--78
+Overfull \hbox (39.5428pt too wide) in paragraph at lines 87--92
 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 New\OT1/cmr/m/n/10 ) \OML/cmm/m/it/10 <
  []
 
 
-Overfull \hbox (36.56252pt too wide) in paragraph at lines 73--78
+Overfull \hbox (36.56252pt too wide) in paragraph at lines 87--92
 \OML/cmm/m/it/10 =span >
  []
 
 
-Overfull \hbox (33.88892pt too wide) in paragraph at lines 73--78
+Overfull \hbox (33.88892pt too wide) in paragraph at lines 87--92
 \OMS/cmsy/m/n/10 ^^@^^@ \OML/cmm/m/it/10 ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 73--78
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 87--92
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (1711.21684pt too wide) in paragraph at lines 73--78
+Overfull \hbox (1711.21684pt too wide) in paragraph at lines 87--92
 \OML/cmm/m/it/10 Thisbookisanattempttoprovideacompactexplanationofthefundamenta
 lresultsintensortheoryanditsapplicationindifferentialgeometry; engineeringanaly
 sisandrelativity:Themotivationtowritethisbookcamefromthedesiretodevelopacompreh
@@ -2377,12 +2841,12 @@ ussothatitcaneffectivelyappliedinengineeringandphysics: <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 73--78
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 87--92
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 73--78
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 87--92
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -2393,7 +2857,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.84 <
+l.98 <
       !--
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2437,13 +2901,13 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.85 		<a href="tensor/tensor-1" target="_
+l.99 		<a href="tensor/tensor-1" target="_
                                           blank">01 - Tensors & Einstein's T...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Misplaced alignment tab character &.
-l.85 ...r/tensor-1" target="_blank">01 - Tensors &
+l.99 ...r/tensor-1" target="_blank">01 - Tensors &
                                                    Einstein's Theory of Rela...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -2455,58 +2919,58 @@ might try typing `S' now just to see what is salvageable.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.88 
-     
+l.102 
+      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 84--88
+Overfull \hbox (20.0pt too wide) in paragraph at lines 98--102
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 84--88
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 98--102
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 84--88
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 98--102
 \OT1/cmr/m/n/10 01 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (180.72302pt too wide) in paragraph at lines 84--88
+Overfull \hbox (180.72302pt too wide) in paragraph at lines 98--102
 \OML/cmm/m/it/10 TensorsEinstein[]sTheoryofRelativity \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 84--88
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 98--102
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 84--88
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 98--102
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 84--88
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 98--102
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (68.14894pt too wide) in paragraph at lines 84--88
+Overfull \hbox (68.14894pt too wide) in paragraph at lines 98--102
 \OML/cmm/m/it/10 Introduction <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 84--88
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 98--102
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 84--88
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 98--102
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -2517,8 +2981,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.89 		<
-        a href="tensor/tensor-2" target="_blank">02 - Tensor Notations - Jai...
+l.103 		<
+         a href="tensor/tensor-2" target="_blank">02 - Tensor Notations - Ja...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2558,71 +3022,71 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.89 		<a href="tensor/tensor-2" target="_
-                                          blank">02 - Tensor Notations - Jai...
+l.103 		<a href="tensor/tensor-2" target="_
+                                           blank">02 - Tensor Notations - Ja...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.92 
-     
+l.106 
+      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 89--92
+Overfull \hbox (20.0pt too wide) in paragraph at lines 103--106
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 89--92
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 103--106
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 89--92
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 103--106
 \OT1/cmr/m/n/10 02 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (85.45569pt too wide) in paragraph at lines 89--92
+Overfull \hbox (85.45569pt too wide) in paragraph at lines 103--106
 \OML/cmm/m/it/10 TensorNotations \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 89--92
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 103--106
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 89--92
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 103--106
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 89--92
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 103--106
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (27.89078pt too wide) in paragraph at lines 89--92
+Overfull \hbox (27.89078pt too wide) in paragraph at lines 103--106
 \OML/cmm/m/it/10 Levi \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (164.39766pt too wide) in paragraph at lines 89--92
+Overfull \hbox (164.39766pt too wide) in paragraph at lines 103--106
 \OML/cmm/m/it/10 CivitaSymbolandKroneckerdeltas <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 89--92
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 103--106
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 89--92
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 103--106
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -2633,8 +3097,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.93 		<
-        a href="tensor/tensor-3" target="_blank">03 - Tensor Calculus - Jaid...
+l.107 		<
+         a href="tensor/tensor-3" target="_blank">03 - Tensor Calculus - Jai...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2674,14 +3138,14 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.93 		<a href="tensor/tensor-3" target="_
-                                          blank">03 - Tensor Calculus - Jaid...
+l.107 		<a href="tensor/tensor-3" target="_
+                                           blank">03 - Tensor Calculus - Jai...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Misplaced alignment tab character &.
-l.94 		Covariant &
-                   Contravariant Transformations, Metric Tensor
+l.108 		Covariant &
+                    Contravariant Transformations, Metric Tensor
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -2692,58 +3156,58 @@ might try typing `S' now just to see what is salvageable.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.96 
-     
+l.110 
+      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 93--96
+Overfull \hbox (20.0pt too wide) in paragraph at lines 107--110
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 93--96
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 107--110
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 93--96
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 107--110
 \OT1/cmr/m/n/10 03 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (79.9669pt too wide) in paragraph at lines 93--96
+Overfull \hbox (79.9669pt too wide) in paragraph at lines 107--110
 \OML/cmm/m/it/10 TensorCalculus \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 93--96
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 107--110
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 93--96
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 107--110
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 93--96
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 107--110
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (271.46199pt too wide) in paragraph at lines 93--96
+Overfull \hbox (271.46199pt too wide) in paragraph at lines 107--110
 \OML/cmm/m/it/10 CovariantContravariantTransformations; MetricTensor <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 93--96
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 107--110
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 93--96
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 107--110
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -2754,8 +3218,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.97 		<
-        a href="tensor/tensor-4" target="_blank">04 - Mathematical Overture ...
+l.111 		<
+         a href="tensor/tensor-4" target="_blank">04 - Mathematical Overture...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2795,67 +3259,67 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.97 		<a href="tensor/tensor-4" target="_
-                                          blank">04 - Mathematical Overture ...
+l.111 		<a href="tensor/tensor-4" target="_
+                                           blank">04 - Mathematical Overture...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.100 
+l.114 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 97--100
+Overfull \hbox (20.0pt too wide) in paragraph at lines 111--114
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 97--100
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 111--114
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 97--100
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 111--114
 \OT1/cmr/m/n/10 04 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (228.0267pt too wide) in paragraph at lines 97--100
+Overfull \hbox (228.0267pt too wide) in paragraph at lines 111--114
 \OML/cmm/m/it/10 MathematicalOvertureonDifferentialGeometry \OMS/cmsy/m/n/10 ^^
 @
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 97--100
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 111--114
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 97--100
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 111--114
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 97--100
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 111--114
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (68.14894pt too wide) in paragraph at lines 97--100
+Overfull \hbox (68.14894pt too wide) in paragraph at lines 111--114
 \OML/cmm/m/it/10 Introduction <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 97--100
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 111--114
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 97--100
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 111--114
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -2866,7 +3330,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.101 		<
+l.115 		<
          a href="tensor/tensor-5" target="_blank">05 - Tensor Order - Jaidee...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2907,7 +3371,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.101 		<a href="tensor/tensor-5" target="_
+l.115 		<a href="tensor/tensor-5" target="_
                                            blank">05 - Tensor Order - Jaidee...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -2915,59 +3379,59 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.104 		
+l.118 		
         
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 101--104
+Overfull \hbox (20.0pt too wide) in paragraph at lines 115--118
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 101--104
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 115--118
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 101--104
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 115--118
 \OT1/cmr/m/n/10 05 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (67.33858pt too wide) in paragraph at lines 101--104
+Overfull \hbox (67.33858pt too wide) in paragraph at lines 115--118
 \OML/cmm/m/it/10 TensorOrder \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 101--104
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 115--118
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 101--104
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 115--118
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 101--104
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 115--118
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (233.88312pt too wide) in paragraph at lines 101--104
+Overfull \hbox (233.88312pt too wide) in paragraph at lines 115--118
 \OT1/cmr/m/n/10 0\OML/cmm/m/it/10 th; \OT1/cmr/m/n/10 1\OML/cmm/m/it/10 stOrder
 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ndOrderandHigherOrderTensors: <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 101--104
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 115--118
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 101--104
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 115--118
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -2978,7 +3442,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105 		<
+l.119 		<
          a href="tensor/tensor-6" target="_blank">06 - Tensor Properties - J...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3019,13 +3483,13 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.105 		<a href="tensor/tensor-6" target="_
+l.119 		<a href="tensor/tensor-6" target="_
                                            blank">06 - Tensor Properties - J...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Misplaced alignment tab character &.
-l.106 ...n, Quotient Law, Metric Tensor, Raising &
+l.120 ...n, Quotient Law, Metric Tensor, Raising &
                                                    Lowering of Indices.
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3037,59 +3501,59 @@ might try typing `S' now just to see what is salvageable.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.108 
+l.122 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 105--108
+Overfull \hbox (20.0pt too wide) in paragraph at lines 119--122
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 105--108
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 119--122
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 105--108
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 119--122
 \OT1/cmr/m/n/10 06 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (88.31569pt too wide) in paragraph at lines 105--108
+Overfull \hbox (88.31569pt too wide) in paragraph at lines 119--122
 \OML/cmm/m/it/10 TensorProperties \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 105--108
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 119--122
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 105--108
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 119--122
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 105--108
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 119--122
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (379.28618pt too wide) in paragraph at lines 105--108
+Overfull \hbox (379.28618pt too wide) in paragraph at lines 119--122
 \OML/cmm/m/it/10 Symmetry; Contraction; QuotientLaw; MetricTensor; RaisingLower
 ingofIndices: <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 105--108
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 119--122
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 105--108
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 119--122
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -3100,7 +3564,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.110 		<
+l.124 		<
          a href="" target="_blank">07 - Base Vectors - Vector Analysis & Ten...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3126,13 +3590,13 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.110 		<a href="" target="_
+l.124 		<a href="" target="_
                             blank">07 - Base Vectors - Vector Analysis & Ten...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Misplaced alignment tab character &.
-l.110 ...nk">07 - Base Vectors - Vector Analysis &
+l.124 ...nk">07 - Base Vectors - Vector Analysis &
                                                    Tensor Analysis - Jaideep...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3144,63 +3608,63 @@ might try typing `S' now just to see what is salvageable.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.113 
+l.127 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 110--113
+Overfull \hbox (20.0pt too wide) in paragraph at lines 124--127
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 110--113
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 124--127
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 110--113
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 124--127
 \OT1/cmr/m/n/10 07 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (65.46886pt too wide) in paragraph at lines 110--113
+Overfull \hbox (65.46886pt too wide) in paragraph at lines 124--127
 \OML/cmm/m/it/10 BaseVectors \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (150.38136pt too wide) in paragraph at lines 110--113
+Overfull \hbox (150.38136pt too wide) in paragraph at lines 124--127
 \OML/cmm/m/it/10 VectorAnalysisTensorAnalysis \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 110--113
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 124--127
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 110--113
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 124--127
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 110--113
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 124--127
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 110--113
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 124--127
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 110--113
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 124--127
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 110--113
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 124--127
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -3211,7 +3675,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.114 		<
+l.128 		<
          a href="" target="_blank">08 - Geometrical Representation of First ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3237,7 +3701,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.114 		<a href="" target="_
+l.128 		<a href="" target="_
                             blank">08 - Geometrical Representation of First ...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3245,59 +3709,59 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.117 			
+l.131 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 114--117
+Overfull \hbox (20.0pt too wide) in paragraph at lines 128--131
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 114--117
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 128--131
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 114--117
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 128--131
 \OT1/cmr/m/n/10 08 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (231.59239pt too wide) in paragraph at lines 114--117
+Overfull \hbox (231.59239pt too wide) in paragraph at lines 128--131
 \OML/cmm/m/it/10 GeometricalRepresentationofFirstOrderTensors \OMS/cmsy/m/n/10 
 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 114--117
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 128--131
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 114--117
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 128--131
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 114--117
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 128--131
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 114--117
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 128--131
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 114--117
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 128--131
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 114--117
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 128--131
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -3308,7 +3772,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.118 		<
+l.132 		<
          a href="" target="_blank">09 - The Christoffel Symbols - Jaideep Ga...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3334,7 +3798,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.118 		<a href="" target="_
+l.132 		<a href="" target="_
                             blank">09 - The Christoffel Symbols - Jaideep Ga...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3342,58 +3806,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.121 			
+l.135 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 118--121
+Overfull \hbox (20.0pt too wide) in paragraph at lines 132--135
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 118--121
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 132--135
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 118--121
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 132--135
 \OT1/cmr/m/n/10 09 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (117.97107pt too wide) in paragraph at lines 118--121
+Overfull \hbox (117.97107pt too wide) in paragraph at lines 132--135
 \OML/cmm/m/it/10 TheChristoffelSymbols \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 118--121
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 132--135
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 118--121
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 132--135
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 118--121
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 132--135
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 118--121
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 132--135
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 118--121
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 132--135
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 118--121
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 132--135
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -3404,7 +3868,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.122 		<
+l.136 		<
          a href="" target="_blank">10 - Covariant Differentiation - Jaideep ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3430,7 +3894,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.122 		<a href="" target="_
+l.136 		<a href="" target="_
                             blank">10 - Covariant Differentiation - Jaideep ...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3438,58 +3902,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.125 			
+l.139 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 122--125
+Overfull \hbox (20.0pt too wide) in paragraph at lines 136--139
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 122--125
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 136--139
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 122--125
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 136--139
 \OT1/cmr/m/n/10 10 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (128.41206pt too wide) in paragraph at lines 122--125
+Overfull \hbox (128.41206pt too wide) in paragraph at lines 136--139
 \OML/cmm/m/it/10 CovariantDifferentiation \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 122--125
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 136--139
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 122--125
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 136--139
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 122--125
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 136--139
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 122--125
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 136--139
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 122--125
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 136--139
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 122--125
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 136--139
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -3500,7 +3964,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.126 		<
+l.140 		<
          a href="" target="_blank">11 - Intrinsic Differentiation - Jaideep ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3526,7 +3990,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.126 		<a href="" target="_
+l.140 		<a href="" target="_
                             blank">11 - Intrinsic Differentiation - Jaideep ...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3534,58 +3998,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.129 
+l.143 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 126--129
+Overfull \hbox (20.0pt too wide) in paragraph at lines 140--143
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 126--129
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 140--143
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 126--129
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 140--143
 \OT1/cmr/m/n/10 11 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (123.56764pt too wide) in paragraph at lines 126--129
+Overfull \hbox (123.56764pt too wide) in paragraph at lines 140--143
 \OML/cmm/m/it/10 IntrinsicDifferentiation \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 126--129
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 140--143
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 126--129
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 140--143
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 126--129
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 140--143
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 126--129
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 140--143
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 126--129
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 140--143
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 126--129
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 140--143
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -3596,7 +4060,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.130 		<
+l.144 		<
          a href="" target="_blank">12 - Ricci's Theorem - Jaideep Ganguly</a...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3622,7 +4086,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.130 		<a href="" target="_
+l.144 		<a href="" target="_
                             blank">12 - Ricci's Theorem - Jaideep Ganguly</a...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3630,58 +4094,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.133 
+l.147 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 130--133
+Overfull \hbox (20.0pt too wide) in paragraph at lines 144--147
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 130--133
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 144--147
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 130--133
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 144--147
 \OT1/cmr/m/n/10 12 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (79.20988pt too wide) in paragraph at lines 130--133
+Overfull \hbox (79.20988pt too wide) in paragraph at lines 144--147
 \OML/cmm/m/it/10 Ricci[]sTheorem \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 130--133
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 144--147
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 130--133
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 144--147
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 130--133
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 144--147
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 130--133
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 144--147
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 130--133
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 144--147
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 130--133
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 144--147
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -3692,7 +4156,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.134 		<
+l.148 		<
          a href="" target="_blank">13 - Reimann-Christoffel Tensor - Jaideep...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3718,7 +4182,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.134 		<a href="" target="_
+l.148 		<a href="" target="_
                             blank">13 - Reimann-Christoffel Tensor - Jaideep...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3726,63 +4190,63 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.137 			
+l.151 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 134--137
+Overfull \hbox (20.0pt too wide) in paragraph at lines 148--151
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 134--137
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 148--151
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 134--137
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 148--151
 \OT1/cmr/m/n/10 13 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (49.62007pt too wide) in paragraph at lines 134--137
+Overfull \hbox (49.62007pt too wide) in paragraph at lines 148--151
 \OML/cmm/m/it/10 Reimann \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (94.77893pt too wide) in paragraph at lines 134--137
+Overfull \hbox (94.77893pt too wide) in paragraph at lines 148--151
 \OML/cmm/m/it/10 ChristoffelTensor \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 134--137
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 148--151
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 134--137
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 148--151
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 134--137
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 148--151
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 134--137
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 148--151
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 134--137
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 148--151
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 134--137
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 148--151
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -3793,7 +4257,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.138 		<
+l.152 		<
          a href="" target="_blank">14 - Curves in Space - Jaideep Ganguly</a...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3819,7 +4283,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.138 		<a href="" target="_
+l.152 		<a href="" target="_
                             blank">14 - Curves in Space - Jaideep Ganguly</a...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3827,58 +4291,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.141 
+l.155 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 138--141
+Overfull \hbox (20.0pt too wide) in paragraph at lines 152--155
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 138--141
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 152--155
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 138--141
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 152--155
 \OT1/cmr/m/n/10 14 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (76.16077pt too wide) in paragraph at lines 138--141
+Overfull \hbox (76.16077pt too wide) in paragraph at lines 152--155
 \OML/cmm/m/it/10 CurvesinSpace \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 138--141
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 152--155
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 138--141
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 152--155
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 138--141
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 152--155
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 138--141
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 152--155
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 138--141
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 152--155
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 138--141
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 152--155
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -3889,7 +4353,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.142 		<
+l.156 		<
          a href="" target="_blank">15 - The First Fundamental Form of a Surf...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3915,7 +4379,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.142 		<a href="" target="_
+l.156 		<a href="" target="_
                             blank">15 - The First Fundamental Form of a Surf...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -3923,58 +4387,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.145 			
+l.159 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 142--145
+Overfull \hbox (20.0pt too wide) in paragraph at lines 156--159
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 142--145
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 156--159
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 142--145
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 156--159
 \OT1/cmr/m/n/10 15 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (191.14014pt too wide) in paragraph at lines 142--145
+Overfull \hbox (191.14014pt too wide) in paragraph at lines 156--159
 \OML/cmm/m/it/10 TheFirstFundamentalFormofaSurface \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 142--145
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 156--159
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 142--145
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 156--159
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 142--145
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 156--159
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 142--145
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 156--159
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 142--145
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 156--159
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 142--145
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 156--159
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -3985,7 +4449,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.146 		<
+l.160 		<
          a href="" target="_blank">16 - Surface Vectors and Tensors in Three...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4011,7 +4475,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.146 		<a href="" target="_
+l.160 		<a href="" target="_
                             blank">16 - Surface Vectors and Tensors in Three...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -4019,59 +4483,59 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.149 
+l.163 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 146--149
+Overfull \hbox (20.0pt too wide) in paragraph at lines 160--163
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 146--149
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 160--163
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 146--149
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 160--163
 \OT1/cmr/m/n/10 16 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (255.05498pt too wide) in paragraph at lines 146--149
+Overfull \hbox (255.05498pt too wide) in paragraph at lines 160--163
 \OML/cmm/m/it/10 SurfaceVectorsandTensorsinThreeDimensionalSpace \OMS/cmsy/m/n/
 10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 146--149
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 160--163
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 146--149
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 160--163
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 146--149
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 160--163
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 146--149
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 160--163
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 146--149
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 160--163
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 146--149
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 160--163
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -4082,7 +4546,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.150 		<
+l.164 		<
          a href="" target="_blank">17 - Surface Permutation Tensor - Jaideep...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4108,7 +4572,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.150 		<a href="" target="_
+l.164 		<a href="" target="_
                             blank">17 - Surface Permutation Tensor - Jaideep...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -4116,58 +4580,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.153 
+l.167 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 150--153
+Overfull \hbox (20.0pt too wide) in paragraph at lines 164--167
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 150--153
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 164--167
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 150--153
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 164--167
 \OT1/cmr/m/n/10 17 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (136.0196pt too wide) in paragraph at lines 150--153
+Overfull \hbox (136.0196pt too wide) in paragraph at lines 164--167
 \OML/cmm/m/it/10 SurfacePermutationTensor \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 150--153
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 164--167
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 150--153
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 164--167
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 150--153
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 164--167
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 150--153
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 164--167
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 150--153
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 164--167
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 150--153
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 164--167
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -4178,7 +4642,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.154 		<
+l.168 		<
          a href="" target="_blank">18 - Surface Curves and Tensors - Jaideep...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4204,7 +4668,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.154 		<a href="" target="_
+l.168 		<a href="" target="_
                             blank">18 - Surface Curves and Tensors - Jaideep...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -4212,58 +4676,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.157 
+l.171 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 154--157
+Overfull \hbox (20.0pt too wide) in paragraph at lines 168--171
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 154--157
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 168--171
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 154--157
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 168--171
 \OT1/cmr/m/n/10 18 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (131.56421pt too wide) in paragraph at lines 154--157
+Overfull \hbox (131.56421pt too wide) in paragraph at lines 168--171
 \OML/cmm/m/it/10 SurfaceCurvesandTensors \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 154--157
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 168--171
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 154--157
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 168--171
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 154--157
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 168--171
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 154--157
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 168--171
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 154--157
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 168--171
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 154--157
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 168--171
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -4274,7 +4738,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.158 		<
+l.172 		<
          a href="" target="_blank">19 - The Unit Surface Normal Vector - Jai...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4300,7 +4764,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.158 		<a href="" target="_
+l.172 		<a href="" target="_
                             blank">19 - The Unit Surface Normal Vector - Jai...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -4308,58 +4772,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.161 			
+l.175 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 158--161
+Overfull \hbox (20.0pt too wide) in paragraph at lines 172--175
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 158--161
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 172--175
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 158--161
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 172--175
 \OT1/cmr/m/n/10 19 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (150.16441pt too wide) in paragraph at lines 158--161
+Overfull \hbox (150.16441pt too wide) in paragraph at lines 172--175
 \OML/cmm/m/it/10 TheUnitSurfaceNormalVector \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 158--161
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 172--175
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 158--161
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 172--175
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 158--161
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 172--175
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 158--161
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 172--175
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 158--161
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 172--175
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 158--161
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 172--175
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -4370,7 +4834,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.162 		<
+l.176 		<
          a href="" target="_blank">20 - The Christoffel Symbols of a Surface...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4396,7 +4860,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.162 		<a href="" target="_
+l.176 		<a href="" target="_
                             blank">20 - The Christoffel Symbols of a Surface...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -4404,58 +4868,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.165 			
+l.179 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 162--165
+Overfull \hbox (20.0pt too wide) in paragraph at lines 176--179
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 162--165
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 176--179
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 162--165
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 176--179
 \OT1/cmr/m/n/10 20 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (171.54068pt too wide) in paragraph at lines 162--165
+Overfull \hbox (171.54068pt too wide) in paragraph at lines 176--179
 \OML/cmm/m/it/10 TheChristoffelSymbolsofaSurface \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 162--165
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 176--179
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 162--165
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 176--179
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 162--165
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 176--179
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 162--165
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 176--179
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 162--165
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 176--179
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 162--165
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 176--179
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -4466,7 +4930,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166 		<
+l.180 		<
          a href="" target="_blank">21 - The Reimann Christoffel Tensor of a ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4492,7 +4956,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.166 		<a href="" target="_
+l.180 		<a href="" target="_
                             blank">21 - The Reimann Christoffel Tensor of a ...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -4500,58 +4964,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.169 			
+l.183 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 166--169
+Overfull \hbox (20.0pt too wide) in paragraph at lines 180--183
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 166--169
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 180--183
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 166--169
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 180--183
 \OT1/cmr/m/n/10 21 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (207.84131pt too wide) in paragraph at lines 166--169
+Overfull \hbox (207.84131pt too wide) in paragraph at lines 180--183
 \OML/cmm/m/it/10 TheReimannChristoffelTensorofaSurface \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 166--169
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 180--183
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 166--169
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 180--183
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 166--169
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 180--183
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 166--169
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 180--183
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 166--169
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 180--183
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 166--169
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 180--183
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -4562,7 +5026,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.170 		<
+l.184 		<
          a href="" target="_blank">22 - Covariant and Intrinsic Differentiat...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4588,7 +5052,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.170 		<a href="" target="_
+l.184 		<a href="" target="_
                             blank">22 - Covariant and Intrinsic Differentiat...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -4596,59 +5060,59 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.173 			
+l.187 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 170--173
+Overfull \hbox (20.0pt too wide) in paragraph at lines 184--187
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 170--173
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 184--187
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 170--173
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 184--187
 \OT1/cmr/m/n/10 22 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (239.99591pt too wide) in paragraph at lines 170--173
+Overfull \hbox (239.99591pt too wide) in paragraph at lines 184--187
 \OML/cmm/m/it/10 CovariantandIntrinsicDifferentiationonaSurface \OMS/cmsy/m/n/1
 0 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 170--173
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 184--187
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 170--173
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 184--187
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 170--173
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 184--187
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 170--173
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 184--187
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 170--173
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 184--187
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 170--173
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 184--187
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -4659,7 +5123,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 		<
+l.188 		<
          a href="" target="_blank">23 - Geodesics and Geodesic Coordinates -...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4685,7 +5149,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.174 		<a href="" target="_
+l.188 		<a href="" target="_
                             blank">23 - Geodesics and Geodesic Coordinates -...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -4693,58 +5157,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.177 			
+l.191 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 174--177
+Overfull \hbox (20.0pt too wide) in paragraph at lines 188--191
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 174--177
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 188--191
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 174--177
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 188--191
 \OT1/cmr/m/n/10 23 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (163.57243pt too wide) in paragraph at lines 174--177
+Overfull \hbox (163.57243pt too wide) in paragraph at lines 188--191
 \OML/cmm/m/it/10 GeodesicsandGeodesicCoordinates \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 174--177
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 188--191
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 174--177
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 188--191
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 174--177
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 188--191
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 174--177
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 188--191
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 174--177
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 188--191
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 174--177
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 188--191
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -4755,7 +5219,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.178 		<
+l.192 		<
          a href="" target="_blank">24 - Tensor Differentiation - Jaideep Gan...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4781,7 +5245,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.178 		<a href="" target="_
+l.192 		<a href="" target="_
                             blank">24 - Tensor Differentiation - Jaideep Gan...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -4789,58 +5253,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.181 			
+l.195 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 178--181
+Overfull \hbox (20.0pt too wide) in paragraph at lines 192--195
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 178--181
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 192--195
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 178--181
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 192--195
 \OT1/cmr/m/n/10 24 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (114.29196pt too wide) in paragraph at lines 178--181
+Overfull \hbox (114.29196pt too wide) in paragraph at lines 192--195
 \OML/cmm/m/it/10 TensorDifferentiation \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 178--181
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 192--195
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 178--181
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 192--195
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 178--181
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 192--195
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 178--181
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 192--195
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 178--181
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 192--195
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 178--181
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 192--195
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -4851,7 +5315,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.182 		<
+l.196 		<
          a href="" target="_blank">25 - Second Fundamental Form - Jaideep Ga...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4877,7 +5341,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.182 		<a href="" target="_
+l.196 		<a href="" target="_
                             blank">25 - Second Fundamental Form - Jaideep Ga...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -4885,58 +5349,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.185 			
+l.199 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 182--185
+Overfull \hbox (20.0pt too wide) in paragraph at lines 196--199
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 182--185
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 196--199
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 182--185
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 196--199
 \OT1/cmr/m/n/10 25 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (127.31404pt too wide) in paragraph at lines 182--185
+Overfull \hbox (127.31404pt too wide) in paragraph at lines 196--199
 \OML/cmm/m/it/10 SecondFundamentalForm \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 182--185
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 196--199
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 182--185
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 196--199
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 182--185
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 196--199
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 182--185
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 196--199
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 182--185
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 196--199
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 182--185
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 196--199
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -4947,7 +5411,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.186 		<
+l.200 		<
          a href="" target="_blank">26 - Gauss Weingarten Equations - Jaideep...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4973,7 +5437,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.186 		<a href="" target="_
+l.200 		<a href="" target="_
                             blank">26 - Gauss Weingarten Equations - Jaideep...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -4981,58 +5445,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.189 
+l.203 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 186--189
+Overfull \hbox (20.0pt too wide) in paragraph at lines 200--203
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 186--189
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 200--203
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 186--189
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 200--203
 \OT1/cmr/m/n/10 26 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (136.8213pt too wide) in paragraph at lines 186--189
+Overfull \hbox (136.8213pt too wide) in paragraph at lines 200--203
 \OML/cmm/m/it/10 GaussWeingartenEquations \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 186--189
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 200--203
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 186--189
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 200--203
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 186--189
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 200--203
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 186--189
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 200--203
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 186--189
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 200--203
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 186--189
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 200--203
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -5043,7 +5507,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.190 		<
+l.204 		<
          a href="" target="_blank">27 - Codazzi and Gauss Relations - Jaidee...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5069,7 +5533,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.190 		<a href="" target="_
+l.204 		<a href="" target="_
                             blank">27 - Codazzi and Gauss Relations - Jaidee...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -5077,58 +5541,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.193 
+l.207 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 190--193
+Overfull \hbox (20.0pt too wide) in paragraph at lines 204--207
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 190--193
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 204--207
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 190--193
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 204--207
 \OT1/cmr/m/n/10 27 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (132.73126pt too wide) in paragraph at lines 190--193
+Overfull \hbox (132.73126pt too wide) in paragraph at lines 204--207
 \OML/cmm/m/it/10 CodazziandGaussRelations \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 190--193
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 204--207
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 190--193
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 204--207
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 190--193
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 204--207
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 190--193
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 204--207
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 190--193
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 204--207
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 190--193
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 204--207
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -5139,7 +5603,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.194 		<
+l.208 		<
          a href="" target="_blank">28 - Gaussian and Mean Curvatures - Jaide...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5165,7 +5629,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.194 		<a href="" target="_
+l.208 		<a href="" target="_
                             blank">28 - Gaussian and Mean Curvatures - Jaide...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -5173,58 +5637,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.197 			
+l.211 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 194--197
+Overfull \hbox (20.0pt too wide) in paragraph at lines 208--211
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 194--197
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 208--211
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 194--197
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 208--211
 \OT1/cmr/m/n/10 28 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (146.32555pt too wide) in paragraph at lines 194--197
+Overfull \hbox (146.32555pt too wide) in paragraph at lines 208--211
 \OML/cmm/m/it/10 GaussianandMeanCurvatures \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 194--197
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 208--211
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 194--197
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 208--211
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 194--197
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 208--211
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 194--197
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 208--211
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 194--197
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 208--211
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 194--197
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 208--211
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -5235,7 +5699,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.198 		<
+l.212 		<
          a href="" target="_blank">29 - The Normal Curvature of a Curve on a...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5261,7 +5725,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.198 		<a href="" target="_
+l.212 		<a href="" target="_
                             blank">29 - The Normal Curvature of a Curve on a...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -5269,58 +5733,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.201 			
+l.215 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 198--201
+Overfull \hbox (20.0pt too wide) in paragraph at lines 212--215
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 198--201
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 212--215
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 198--201
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 212--215
 \OT1/cmr/m/n/10 29 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (207.0299pt too wide) in paragraph at lines 198--201
+Overfull \hbox (207.0299pt too wide) in paragraph at lines 212--215
 \OML/cmm/m/it/10 TheNormalCurvatureofaCurveonaSurface \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 198--201
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 212--215
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 198--201
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 212--215
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 198--201
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 212--215
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 198--201
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 212--215
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 198--201
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 212--215
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 198--201
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 212--215
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -5331,7 +5795,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.202 		<
+l.216 		<
          a href="" target="_blank">30 - The Principal Curvatures - Jaideep G...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5357,7 +5821,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.202 		<a href="" target="_
+l.216 		<a href="" target="_
                             blank">30 - The Principal Curvatures - Jaideep G...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -5365,58 +5829,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.205 			
+l.219 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 202--205
+Overfull \hbox (20.0pt too wide) in paragraph at lines 216--219
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 202--205
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 216--219
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 202--205
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 216--219
 \OT1/cmr/m/n/10 30 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (121.08174pt too wide) in paragraph at lines 202--205
+Overfull \hbox (121.08174pt too wide) in paragraph at lines 216--219
 \OML/cmm/m/it/10 ThePrincipalCurvatures \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 202--205
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 216--219
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 202--205
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 216--219
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 202--205
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 216--219
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 202--205
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 216--219
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 202--205
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 216--219
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 202--205
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 216--219
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -5427,7 +5891,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.206 		<
+l.220 		<
          a href="" target="_blank">31 - The Lines of Curvature - Jaideep Gan...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5453,7 +5917,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.206 		<a href="" target="_
+l.220 		<a href="" target="_
                             blank">31 - The Lines of Curvature - Jaideep Gan...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -5461,58 +5925,58 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.209 			
+l.223 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 206--209
+Overfull \hbox (20.0pt too wide) in paragraph at lines 220--223
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 206--209
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 220--223
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 206--209
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 220--223
 \OT1/cmr/m/n/10 31 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (109.49426pt too wide) in paragraph at lines 206--209
+Overfull \hbox (109.49426pt too wide) in paragraph at lines 220--223
 \OML/cmm/m/it/10 TheLinesofCurvature \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 206--209
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 220--223
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 206--209
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 220--223
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 206--209
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 220--223
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 206--209
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 220--223
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 206--209
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 220--223
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 206--209
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 220--223
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -5523,7 +5987,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.210 		<
+l.224 		<
          a href="" target="_blank">32 - The Lines of Curvature as Coordinate...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5549,7 +6013,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.210 		<a href="" target="_
+l.224 		<a href="" target="_
                             blank">32 - The Lines of Curvature as Coordinate...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -5557,63 +6021,63 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.213 
+l.227 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 210--213
+Overfull \hbox (20.0pt too wide) in paragraph at lines 224--227
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 210--213
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 224--227
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 210--213
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 224--227
 \OT1/cmr/m/n/10 32 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (202.94579pt too wide) in paragraph at lines 210--213
+Overfull \hbox (202.94579pt too wide) in paragraph at lines 224--227
 \OML/cmm/m/it/10 TheLinesofCurvatureasCoordinateCurves \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (83.78806pt too wide) in paragraph at lines 210--213
+Overfull \hbox (83.78806pt too wide) in paragraph at lines 224--227
 \OML/cmm/m/it/10 JaideepGanguly <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 210--213
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 224--227
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 210--213
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 224--227
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 210--213
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 224--227
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 210--213
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 224--227
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 210--213
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 224--227
 \OML/cmm/m/it/10 BR >
  []
 
 
-Overfull \hbox (26.11111pt too wide) in paragraph at lines 210--213
+Overfull \hbox (26.11111pt too wide) in paragraph at lines 224--227
 \OMS/cmsy/m/n/10 ^^@^^@ \OML/cmm/m/it/10 >$ 
  []
 
@@ -5624,7 +6088,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.214 		<
+l.228 		<
          !-- <a href="" target="_blank">Einstein's General Theory of Relativ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5654,7 +6118,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.214 		<!-- <a href="" target="_
+l.228 		<!-- <a href="" target="_
                                  blank">Einstein's General Theory of Relativ...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -5662,53 +6126,53 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.217 			
+l.231 			
          
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 214--217
+Overfull \hbox (20.0pt too wide) in paragraph at lines 228--231
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 214--217
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 228--231
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (180.25336pt too wide) in paragraph at lines 214--217
+Overfull \hbox (180.25336pt too wide) in paragraph at lines 228--231
 \OML/cmm/m/it/10 Einstein[]sGeneralTheoryofRelativity \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (81.24681pt too wide) in paragraph at lines 214--217
+Overfull \hbox (81.24681pt too wide) in paragraph at lines 228--231
 \OML/cmm/m/it/10 FieldEquations <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 214--217
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 228--231
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 214--217
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 228--231
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 214--217
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 228--231
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 214--217
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 228--231
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 214--217
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 228--231
 \OML/cmm/m/it/10 BR >$ 
  []
 
@@ -5719,7 +6183,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.218 		<
+l.232 		<
          a href="" target="_blank">Einstein's Special Theory of Relativity</...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -5745,7 +6209,7 @@ Missing character: There is no " in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.218 		<a href="" target="_
+l.232 		<a href="" target="_
                             blank">Einstein's Special Theory of Relativity</...
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -5753,53 +6217,53 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.221 
+l.235 
       
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 218--221
+Overfull \hbox (20.0pt too wide) in paragraph at lines 232--235
 []
  []
 
 
-Overfull \hbox (39.56184pt too wide) in paragraph at lines 218--221
+Overfull \hbox (39.56184pt too wide) in paragraph at lines 232--235
 []\OML/cmm/m/it/10 lank\OT1/cmr/m/n/10 " \OML/cmm/m/it/10 >
  []
 
 
-Overfull \hbox (179.23285pt too wide) in paragraph at lines 218--221
+Overfull \hbox (179.23285pt too wide) in paragraph at lines 232--235
 \OML/cmm/m/it/10 Einstein[]sSpecialTheoryofRelativity <
  []
 
 
-Overfull \hbox (28.61922pt too wide) in paragraph at lines 218--221
+Overfull \hbox (28.61922pt too wide) in paragraph at lines 232--235
 \OML/cmm/m/it/10 =a ><
  []
 
 
-Overfull \hbox (31.31248pt too wide) in paragraph at lines 218--221
+Overfull \hbox (31.31248pt too wide) in paragraph at lines 232--235
 \OML/cmm/m/it/10 BR= >
  []
 
 
-Overfull \hbox (139.12227pt too wide) in paragraph at lines 218--221
+Overfull \hbox (139.12227pt too wide) in paragraph at lines 232--235
 \OML/cmm/m/it/10 Ontheway:::Pleasestaytuned <
  []
 
 
-Overfull \hbox (34.09027pt too wide) in paragraph at lines 218--221
+Overfull \hbox (34.09027pt too wide) in paragraph at lines 232--235
 \OML/cmm/m/it/10 BR ><
  []
 
 
-Overfull \hbox (26.31247pt too wide) in paragraph at lines 218--221
+Overfull \hbox (26.31247pt too wide) in paragraph at lines 232--235
 \OML/cmm/m/it/10 BR >
  []
 
 
-Overfull \hbox (26.11111pt too wide) in paragraph at lines 218--221
+Overfull \hbox (26.11111pt too wide) in paragraph at lines 232--235
 \OMS/cmsy/m/n/10 ^^@^^@ \OML/cmm/m/it/10 >$ 
  []
 
@@ -5810,7 +6274,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.222 	<
+l.236 	<
         /div>
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5822,7 +6286,7 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no v in font nullfont!
 Missing character: There is no > in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 222--223
+Overfull \hbox (20.0pt too wide) in paragraph at lines 236--237
 [] 
  []
 
@@ -5833,7 +6297,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.224 <
+l.238 <
        /body>
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5846,7 +6310,7 @@ Missing character: There is no d in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no > in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 224--225
+Overfull \hbox (20.0pt too wide) in paragraph at lines 238--239
 [] 
  []
 
@@ -5857,7 +6321,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.226 <
+l.240 <
        /html>
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5879,7 +6343,7 @@ Missing character: There is no > in font nullfont!
 Here is how much of TeX's memory you used:
  22 strings out of 474116
  611 string characters out of 5743682
- 1943187 words of memory out of 5000000
+ 1946187 words of memory out of 5000000
  22479 multiletter control sequences out of 15000+600000
  558069 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
